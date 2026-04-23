@@ -1,0 +1,842 @@
+[
+    {
+        "cod_car": "403",
+        "nom_car": "ADMINISTRADOR DE BASES DE DATOS",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "199",
+        "nom_car": "ADMINISTRADOR DE SISTEMA",
+        "usr_val_hora": 12921.0
+    },
+    {
+        "cod_car": "58",
+        "nom_car": "ALMACENISTA",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "152",
+        "nom_car": "ANALISTA APOYO FINANCIERO Y CARTERA",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "391",
+        "nom_car": "ANALISTA AUTOMATIZACION DE PROCESOS",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "372",
+        "nom_car": "ANALISTA CONTABLE",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "273",
+        "nom_car": "ANALISTA DE APOYO FINANCIERO",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "397",
+        "nom_car": "ANALISTA DE APOYO FINANCIERO 1",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "195",
+        "nom_car": "ANALISTA DE CARTERA",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "59",
+        "nom_car": "ANALISTA DE CONTABILIDAD",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "377",
+        "nom_car": "ANALISTA DE INFRAESTRUCTURA",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "240",
+        "nom_car": "ANALISTA DE RECURSOS HUMANOS",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "373",
+        "nom_car": "ANALISTA DE SEGURIDAD DE LA INFORMACION",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "91",
+        "nom_car": "ANALISTA DE SISTEMAS",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "331",
+        "nom_car": "ANALISTA MESA DE AYUDA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "316",
+        "nom_car": "ANALISTA OFICINA DE DESARROLLO INSTITUCIONAL",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "404",
+        "nom_car": "ANALISTA SOPORTE DE APLICACIONES",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "160",
+        "nom_car": "APRENDIZ",
+        "usr_val_hora": 4700.0
+    },
+    {
+        "cod_car": "241",
+        "nom_car": "ARQUITECTO",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "361",
+        "nom_car": "ARQUITECTO DE DESARROLLO DE APLICACIONES",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "274",
+        "nom_car": "ASESOR CONTACT CENTER",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "247",
+        "nom_car": "ASESOR DE RECTORIA",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "342",
+        "nom_car": "ASISTENTE COMPRAS VIAJES INSTITUCIONALES",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "95",
+        "nom_car": "ASISTENTE DE AUDIOVISUALES",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "62",
+        "nom_car": "ASISTENTE DE CONTABILIDAD",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "105",
+        "nom_car": "ASISTENTE DE LIBRERIA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "127",
+        "nom_car": "ASISTENTE DE RECURSOS HUMANOS",
+        "usr_val_hora": 19682.0
+    },
+    {
+        "cod_car": "409",
+        "nom_car": "ASISTENTE DECANATURA  CIVIL",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "167",
+        "nom_car": "ASISTENTE DEPARTAMENTO COMPRAS Y SUMINISTROS",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "39",
+        "nom_car": "ASISTENTE SERVICIOS INTERNOS",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "61",
+        "nom_car": "ASISTENTE TESORERIA",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "242",
+        "nom_car": "AUXILIAR ADMINISTRATIVO",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "94",
+        "nom_car": "AUXILIAR AUDIOVISUALES",
+        "usr_val_hora": 12540.0
+    },
+    {
+        "cod_car": "60",
+        "nom_car": "AUXILIAR BIBLIOTECA",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "232",
+        "nom_car": "AUXILIAR DE ADMISIONES",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "248",
+        "nom_car": "AUXILIAR DE COMPRAS",
+        "usr_val_hora": 13357.0
+    },
+    {
+        "cod_car": "264",
+        "nom_car": "AUXILIAR DE DEPORTES",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "262",
+        "nom_car": "AUXILIAR DE DOCUMENTACION",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "09",
+        "nom_car": "AUXILIAR DE LABORATORIO",
+        "usr_val_hora": 12921.0
+    },
+    {
+        "cod_car": "06",
+        "nom_car": "AUXILIAR DE MANTENIMIENTO Y CONSERVACION",
+        "usr_val_hora": 9518.0
+    },
+    {
+        "cod_car": "69",
+        "nom_car": "AUXILIAR DE OBRA",
+        "usr_val_hora": 12731.0
+    },
+    {
+        "cod_car": "07",
+        "nom_car": "AUXILIAR DE SERVICIOS INTERNOS",
+        "usr_val_hora": 7652.0
+    },
+    {
+        "cod_car": "111",
+        "nom_car": "AUXILIAR DE TESORERIA",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "305",
+        "nom_car": "AUXILIAR NOMINA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "276",
+        "nom_car": "CAJERO",
+        "usr_val_hora": 16209.0
+    },
+    {
+        "cod_car": "08",
+        "nom_car": "CONDUCTOR",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "103",
+        "nom_car": "COORDINADOR CENTRO DE INFORMACION DOCUMENTAL",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "181",
+        "nom_car": "COORDINADOR DE DEPORTES",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "325",
+        "nom_car": "COORDINADOR DE INNOVACION Y TRANSFERENCIA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "133",
+        "nom_car": "COORDINADOR EDITORIAL",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "137",
+        "nom_car": "COORDINADOR EDUCACION CONTINUADA",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "147",
+        "nom_car": "COORDINADOR LOGISTICA EDUCACION CONTINUADA",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "32",
+        "nom_car": "COORDINADOR MERCADEO",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "408",
+        "nom_car": "COORDINADOR MESA DE AYUDA  / OFICIAL DE TRATAMIENTO DE DATOS PERSONALES",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "149",
+        "nom_car": "COORDINADOR OFICINA DE GRADUADOS",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "131",
+        "nom_car": "COORDINADOR OFICINA DE RELACIONES INTERNACIONALES",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "132",
+        "nom_car": "COORDINADOR OFICINA UNIVERSIDAD EMPRESA",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "378",
+        "nom_car": "COORDINADORA DE COMUNICACIONES",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "21",
+        "nom_car": "COORDINADORA DE SERVICIOS INTERNOS",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "394",
+        "nom_car": "COORDINADORA DEL CONTACT CENTER",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "406",
+        "nom_car": "COORDINADORA PROYECTO ENLACE",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "375",
+        "nom_car": "DESARROLLADOR FULLSTACK",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "47",
+        "nom_car": "DIRECTOR BIENESTAR UNIVERSITARIO",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "28",
+        "nom_car": "DIRECTOR DE RECURSOS HUMANOS",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "222",
+        "nom_car": "DIRECTOR MERCADEO Y COMUNICACIONES INTERNAS",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "57",
+        "nom_car": "DIRECTOR OFICINA SOPORTE DE INFORMATICA",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "283",
+        "nom_car": "DIRECTOR PLANTA FISICA",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "82",
+        "nom_car": "DIRECTOR UNIDAD DE GESTION EXTERNA",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "107",
+        "nom_car": "DIRECTORA DE BIBLIOTECA",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "286",
+        "nom_car": "DIRECTORA DE COMPRAS Y SUMINISTROS",
+        "usr_val_hora": 74160.0
+    },
+    {
+        "cod_car": "294",
+        "nom_car": "DIRECTORA EJECUTIVA DE LA ESCUELA DE POSGRADOS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "332",
+        "nom_car": "DIRECTORA OFICINA DE GESTION DE INFRAESTRUCTURA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "68",
+        "nom_car": "DISEÑADOR GRAFICO",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "03",
+        "nom_car": "ELECTRICISTA",
+        "usr_val_hora": 12540.0
+    },
+    {
+        "cod_car": "75",
+        "nom_car": "ENFERMERA",
+        "usr_val_hora": 38983.0
+    },
+    {
+        "cod_car": "371",
+        "nom_car": "GESTOR DE PROYECTOS",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "291",
+        "nom_car": "INGENIERO AMBIENTAL",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "112",
+        "nom_car": "INGENIERO DE APOYO",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "79",
+        "nom_car": "INGENIERO DE SOPORTE Y DESARROLLO",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "159",
+        "nom_car": "INSTRUCTOR DE DEPORTES",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "265",
+        "nom_car": "INSTRUCTOR DE GIMNASIO",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "22",
+        "nom_car": "JEFE DE ADMISIONES",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "166",
+        "nom_car": "JEFE DE ALMACEN E INVENTARIOS",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "200",
+        "nom_car": "JEFE DE APOYO FINANCIERO",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "180",
+        "nom_car": "JEFE DE AUDITORIA INTERNA",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "165",
+        "nom_car": "JEFE DE COMPRAS Y SUMINISTROS",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "163",
+        "nom_car": "JEFE DE CONTABILIDAD",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "156",
+        "nom_car": "JEFE DE PRESUPUESTO",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "380",
+        "nom_car": "JEFE DE PROMOCION Y COMERCIAL",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "37",
+        "nom_car": "JEFE DE REGISTRO",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "297",
+        "nom_car": "JEFE DE SEGURIDAD Y SALUD EN EL TRABAJO SST",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "321",
+        "nom_car": "JEFE OFICINA DE GRADOS Y EVENTOS ESPECIALES",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "24",
+        "nom_car": "MEDICO",
+        "usr_val_hora": 38983.0
+    },
+    {
+        "cod_car": "233",
+        "nom_car": "MENSAJERA INTERNA",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "04",
+        "nom_car": "MENSAJERO",
+        "usr_val_hora": 10505.0
+    },
+    {
+        "cod_car": "101",
+        "nom_car": "ODONTOLOGO",
+        "usr_val_hora": 38983.0
+    },
+    {
+        "cod_car": "117",
+        "nom_car": "PRACTICANTE",
+        "usr_val_hora": 4700.0
+    },
+    {
+        "cod_car": "266",
+        "nom_car": "PROFESIONAL ADMINISTRATIVA DE LA DIRECCION DE POSGRADOS",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "337",
+        "nom_car": "PROFESIONAL ADMINISTRATIVO",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "300",
+        "nom_car": "PROFESIONAL APOYO DECANATURA",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "109",
+        "nom_car": "PROFESIONAL APOYO FINANCIERO",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "234",
+        "nom_car": "PROFESIONAL DE ADMISIONES",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "244",
+        "nom_car": "PROFESIONAL DE BIBLIOTECA",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "301",
+        "nom_car": "PROFESIONAL DE COMUNICACIONES",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "194",
+        "nom_car": "PROFESIONAL DE PRESUPUESTO",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "384",
+        "nom_car": "PROFESIONAL DE PROMOCION",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "223",
+        "nom_car": "PROFESIONAL DE RECURSOS HUMANOS",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "246",
+        "nom_car": "PROFESIONAL DE REDES SOCIALES",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "328",
+        "nom_car": "PROFESIONAL JUNIOR OFICINA JURIDICA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "208",
+        "nom_car": "PROFESIONAL OFICINA DE DESARROLLO INSTITUCIONAL",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "135",
+        "nom_car": "PROFESIONAL OFICINA DESARROLLO INSTITUCIONAL",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "243",
+        "nom_car": "PROFESIONAL OFICINA JURIDICA",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "203",
+        "nom_car": "PROFESIONAL REGISTRO ACADEMICO",
+        "usr_val_hora": 35053.0
+    },
+    {
+        "cod_car": "245",
+        "nom_car": "PROFESIONAL UNIDAD DE PROCESOS",
+        "usr_val_hora": 23155.0
+    },
+    {
+        "cod_car": "329",
+        "nom_car": "PROFESIONAL VICERRECTORIA ACADEMICA",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "10",
+        "nom_car": "PROFESOR",
+        "usr_val_hora": 50740.0
+    },
+    {
+        "cod_car": "238",
+        "nom_car": "PROFESOR - COORDINADORA DE DESARROLLO PROFESORAL",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "322",
+        "nom_car": "PROFESOR - COORDINADORA DE EMPRENDIMIENTO",
+        "usr_val_hora": 50740.0
+    },
+    {
+        "cod_car": "388",
+        "nom_car": "PROFESOR - COORDINADORA DEL PROGRAMA DE INGENIERIA ESTADISTICA",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "401",
+        "nom_car": "PROFESOR - DECANA INGENIERIA CIVIL Y AMBIENTAL, DIR. C.E. ESTRUCTURAS, MATERIALES Y CONSTRUCCION, CORD. DEL ENFASIS EN CONSTRUCCION Y COORD. DEL ENFASIS EN EVALUACION, REPARACION Y REHABILITACION ESTRUCTURAL DE LA MAESTRIA ING. CIVIL",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "134",
+        "nom_car": "PROFESOR - DECANO DE ADMINISTRACION DE EMPRESAS",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "97",
+        "nom_car": "PROFESOR - DECANO DE ECONOMIA",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "16",
+        "nom_car": "PROFESOR - DECANO DE INGENIERIA DE SISTEMAS",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "15",
+        "nom_car": "PROFESOR - DECANO DE INGENIERIA ELECTRICA",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "92",
+        "nom_car": "PROFESOR - DECANO DE INGENIERIA ELECTRONICA",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "173",
+        "nom_car": "PROFESOR - DECANO DE MATEMATICAS",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "366",
+        "nom_car": "PROFESOR - DECANO INGENIERIA BIOMEDICA Y DIRECTOR DE LA MAESTRIA DE INGENIERIA BIOMEDICA",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "387",
+        "nom_car": "PROFESOR - DECANO INGENIERIA INDUSTRIAL, DIRECTOR DE LA MAESTRIA DE INGENIERIA INDUSTRIAL Y DIRECTORA DE LA MAESTRIA EN CIENCIA DE DATOS",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "225",
+        "nom_car": "PROFESOR - DECANO INGENIERIA MECANICA",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "256",
+        "nom_car": "PROFESOR - DIRECTOR  ESPECIALIZACION ECONOMIA PARA INGENIEROS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "400",
+        "nom_car": "PROFESOR - DIRECTOR C.E. AMBIENTALES, DIRECTOR ESPECIALIZACIÓN EN SANEAMIENTO AMBIENTAL Y COORDINADOR ENFASIS EN INGENIERI AMBIENTAL DE LA MAESTRIA EN INGENIERA CIVIL",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "357",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE ARQUITECTURA TECNOLOGICA Y SEGURIDAD",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "352",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE DISEÑO DE ELEMENTOS Y SISTEMAS MECANICOS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "353",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE GESTION DE TECNOLOGIA E INNOVACION",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "350",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE PROCESOS PARA FABRICACION DE ELEMENTOS MECANICOS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "354",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE PRODUCCION",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "355",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE SISTEMAS DE GESTION",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "351",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS DE SISTEMAS TERMICOS Y MECANICOS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "345",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS FUNDAMENTOS DE LA COMPUTACION",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "348",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS GEOTECNICOS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "54",
+        "nom_car": "PROFESOR - DIRECTOR CENTRO DE ESTUDIOS VIAS Y TRANSPORTE",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "370",
+        "nom_car": "PROFESOR - DIRECTOR DE LA MAESTRIA EN GESTION DE INFORMACION  Y DIRECTOR CENTRO DE ESTUDIOS DE SISTEMAS Y ORGANIZACIONES",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "369",
+        "nom_car": "PROFESOR - DIRECTOR DE POSGRADOS E INVESTIGACION INGENIERIA CIVIL Y DIRECTOR DE LA MAESTRIA DE INGENIERIA CIVIL",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "170",
+        "nom_car": "PROFESOR - DIRECTOR DEL DEPARTAMENTO DE CIENCIAS NATURALES",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "87",
+        "nom_car": "PROFESOR - DIRECTOR DEL DEPARTAMENTO HUMANIDADES E IDIOMAS",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "171",
+        "nom_car": "PROFESOR - DIRECTOR DEPARTAMENTO DE MATEMATICAS",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "216",
+        "nom_car": "PROFESOR - DIRECTOR EDITORIAL",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "389",
+        "nom_car": "PROFESOR - DIRECTOR ESPECIALIZACION DISEÑO, CONSTRUCION Y CONSERVACION DE VIAS Y COORDINADORA DEL ENFASIS EN SEGURIDAD VIAL Y PREVENCION DE ACCIDENTES DE TRANSITO DE LA MAESTRIA EN INGENIERIA CIVIL",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "255",
+        "nom_car": "PROFESOR - DIRECTOR ESPECIALIZACION EN GERENCIA DE PRODUCCION INDUSTRIAL",
+        "usr_val_hora": 50740.0
+    },
+    {
+        "cod_car": "257",
+        "nom_car": "PROFESOR - DIRECTOR ESPECIALIZACION EN GESTION INTEGRADA QHSE",
+        "usr_val_hora": 50740.0
+    },
+    {
+        "cod_car": "365",
+        "nom_car": "PROFESOR - DIRECTOR ESPECIALIZACION EN INGENIERIA DE FUNDACIONES",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "306",
+        "nom_car": "PROFESOR - DIRECTOR ESPECIALIZACION Y MAESTRIA DESARROLLO Y GERENCIA  INTEGRAL DE  PROYECTOS",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "399",
+        "nom_car": "PROFESOR - DIRECTOR MAESTRIA ELECTRONICA",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "142",
+        "nom_car": "PROFESOR - DIRECTOR UNIDAD DE PROYECTOS",
+        "usr_val_hora": 57434.0
+    },
+    {
+        "cod_car": "43",
+        "nom_car": "PROFESOR - QUIMICO",
+        "usr_val_hora": 50740.0
+    },
+    {
+        "cod_car": "402",
+        "nom_car": "PROFESOR - RECTOR",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "17",
+        "nom_car": "PROFESOR - SECRETARIO GENERAL",
+        "usr_val_hora": 190363.0
+    },
+    {
+        "cod_car": "323",
+        "nom_car": "PROFESOR - SUBDIRECTORA DE DESARROLLO Y FOMENTO A LA INVESTIGACION",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "12",
+        "nom_car": "PROFESOR - VICERRECTOR ACADEMICO",
+        "usr_val_hora": 190363.0
+    },
+    {
+        "cod_car": "42",
+        "nom_car": "PROFESOR CATEDRATICO",
+        "usr_val_hora": 57118.0
+    },
+    {
+        "cod_car": "398",
+        "nom_car": "PROFESORA - DIRECTORA DE LA OFICINA DE DESARROLLO INSTITUCIONAL Y COORDINADORA DEL PROGRAMA PREUNIVERSITARIO",
+        "usr_val_hora": 0
+    },
+    {
+        "cod_car": "23",
+        "nom_car": "PSICOLOGO",
+        "usr_val_hora": 26320.0
+    },
+    {
+        "cod_car": "334",
+        "nom_car": "RESIDENTE TECNICO ADMINISTRATIVO",
+        "usr_val_hora": 0.0
+    },
+    {
+        "cod_car": "31",
+        "nom_car": "SECRETARIA",
+        "usr_val_hora": 13675.0
+    },
+    {
+        "cod_car": "196",
+        "nom_car": "TECNICO ELECTRICISTA",
+        "usr_val_hora": 12540.0
+    },
+    {
+        "cod_car": "81",
+        "nom_car": "TECNICO SOPORTE Y MANTENIMIENTO DE EQUIPOS DE COMPUTO",
+        "usr_val_hora": 12540.0
+    },
+    {
+        "cod_car": "148",
+        "nom_car": "TESORERO",
+        "usr_val_hora": 48970.0
+    },
+    {
+        "cod_car": "184",
+        "nom_car": "VICERRECTOR ADMINISTRATIVO",
+        "usr_val_hora": 190363.0
+    }
+]

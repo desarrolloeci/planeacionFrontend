@@ -1,0 +1,40 @@
+/* tiptapStyles.css */
+
+.tiptap {
+  min-height: 200px;
+  outline: none;
+  padding: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.tiptap p {
+  margin: 0 0 10px;
+}
+
+.tiptap img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 12px 0;
+  border-radius: 4px;
+}
+
+.tiptap a {
+  color: #1976d2;
+  text-decoration: underline;
+}
+
+.tiptap ul,
+.tiptap ol {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.tiptap blockquote {
+  border-left: 4px solid #ccc;
+  padding-left: 12px;
+  color: #555;
+  margin: 12px 0;
+  font-style: italic;
+}

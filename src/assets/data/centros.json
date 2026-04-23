@@ -1,0 +1,4830 @@
+[
+    {
+        "cod_cl1": "1701000001",
+        "NCcosto": "ACT_ACD  Posgrados- estudiantes y gradu"
+    },
+    {
+        "cod_cl1": "1701000151",
+        "NCcosto": "CursoVERANO_ Maestría en Ciencia de Dat"
+    },
+    {
+        "cod_cl1": "1101000741",
+        "NCcosto": "17PD.716 Implementación del sistema de p"
+    },
+    {
+        "cod_cl1": "1101000742",
+        "NCcosto": "17PD.717 Reconocimiento de las edificaci"
+    },
+    {
+        "cod_cl1": "1101000743",
+        "NCcosto": "17PD.718 Ejecución del plan de reforzami"
+    },
+    {
+        "cod_cl1": "1101000744",
+        "NCcosto": "17PD.719 Normalización de la infraestruc"
+    },
+    {
+        "cod_cl1": "1101000739",
+        "NCcosto": "17PD.719 Optimización de la estructura o"
+    },
+    {
+        "cod_cl1": "1101000745",
+        "NCcosto": "17PD.720 Mejora del sistema de alarmas d"
+    },
+    {
+        "cod_cl1": "1101000749",
+        "NCcosto": "17PD.721 Construcción de sistema de trat"
+    },
+    {
+        "cod_cl1": "1201000100",
+        "NCcosto": "17PD11. Oferta académica pre y pos"
+    },
+    {
+        "cod_cl1": "1101000748",
+        "NCcosto": "17PD12.Implementación modelo académico p"
+    },
+    {
+        "cod_cl1": "1201000101",
+        "NCcosto": "17PD13. Oferta acad  educación continuad"
+    },
+    {
+        "cod_cl1": "1201000102",
+        "NCcosto": "17PD14. Renovación curricular"
+    },
+    {
+        "cod_cl1": "1201000103",
+        "NCcosto": "17PD15. Portafolio Des Profesoral"
+    },
+    {
+        "cod_cl1": "1201000104",
+        "NCcosto": "17PD16. Plan de carrera de los prof"
+    },
+    {
+        "cod_cl1": "1201000105",
+        "NCcosto": "17PD17. Centro Innovación Pedagógica"
+    },
+    {
+        "cod_cl1": "1201000106",
+        "NCcosto": "17PD18. éxito académico"
+    },
+    {
+        "cod_cl1": "1801000001",
+        "NCcosto": "17PD21. plan trabajo Investigadores"
+    },
+    {
+        "cod_cl1": "1801000010",
+        "NCcosto": "17PD210.  Herramientas tecn I+i"
+    },
+    {
+        "cod_cl1": "1801000011",
+        "NCcosto": "17PD213. Fundraising de I+i."
+    },
+    {
+        "cod_cl1": "1801000002",
+        "NCcosto": "17PD22. Política integral de I+i"
+    },
+    {
+        "cod_cl1": "1801000003",
+        "NCcosto": "17PD23.  Plan Estratég_Grupos investigac"
+    },
+    {
+        "cod_cl1": "1801000004",
+        "NCcosto": "17PD24. Gestores relacion nal-inter I+i"
+    },
+    {
+        "cod_cl1": "1801000005",
+        "NCcosto": "17PD25. Banco proyectos I+i"
+    },
+    {
+        "cod_cl1": "1801000006",
+        "NCcosto": "17PD26. Esquema evaluación proy inv"
+    },
+    {
+        "cod_cl1": "1801000007",
+        "NCcosto": "17PD27. Profesores investigadores"
+    },
+    {
+        "cod_cl1": "1801000008",
+        "NCcosto": "17PD28. Cultura I+i espíritu emprendedor"
+    },
+    {
+        "cod_cl1": "1801000009",
+        "NCcosto": "17PD29. Comunicación I+i"
+    },
+    {
+        "cod_cl1": "1601010100",
+        "NCcosto": "17PD31. Observatorio relación entorno"
+    },
+    {
+        "cod_cl1": "1601010101",
+        "NCcosto": "17PD32. Portafolio de la Escuela"
+    },
+    {
+        "cod_cl1": "1601010709",
+        "NCcosto": "17PD34 A.4.2. Revisi_actual_des_ conven"
+    },
+    {
+        "cod_cl1": "1401000101",
+        "NCcosto": "17PD41. Sistema aseguramiento calidad"
+    },
+    {
+        "cod_cl1": "1401000102",
+        "NCcosto": "17PD42. Estudios institucionales"
+    },
+    {
+        "cod_cl1": "1401000103",
+        "NCcosto": "17PD43. Sistem normativo_documental ins"
+    },
+    {
+        "cod_cl1": "1106010102",
+        "NCcosto": "17PD51. Clima Institucional"
+    },
+    {
+        "cod_cl1": "1106010100",
+        "NCcosto": "17PD52.Gestión Cambio Institucional"
+    },
+    {
+        "cod_cl1": "1106010101",
+        "NCcosto": "17PD53. Evaluación desempeño formación p"
+    },
+    {
+        "cod_cl1": "1501010705",
+        "NCcosto": "17PD61. unica base de datos CYM"
+    },
+    {
+        "cod_cl1": "1101000734",
+        "NCcosto": "17PD610. Implementación Sistema Riesgos"
+    },
+    {
+        "cod_cl1": "1101000735",
+        "NCcosto": "17PD612. sistema admon info profesores"
+    },
+    {
+        "cod_cl1": "1101000733",
+        "NCcosto": "17PD615. Proy transformación tecnológica"
+    },
+    {
+        "cod_cl1": "1101000730",
+        "NCcosto": "17PD616. E.4.1.Proyec_seguridad informát"
+    },
+    {
+        "cod_cl1": "1501010706",
+        "NCcosto": "17PD62. Plan estratégico comunicaciones"
+    },
+    {
+        "cod_cl1": "1501010707",
+        "NCcosto": "17PD63. Nuevo portal Web"
+    },
+    {
+        "cod_cl1": "1111000100",
+        "NCcosto": "17PD65. Gestión calidad proc normas inte"
+    },
+    {
+        "cod_cl1": "1905000000",
+        "NCcosto": "17PD710.  UAR"
+    },
+    {
+        "cod_cl1": "1101000736",
+        "NCcosto": "17PD713. Búsqueda nuevos terrenos"
+    },
+    {
+        "cod_cl1": "1101000737",
+        "NCcosto": "17PD714. Modelo Gestión Ambiental 1y2"
+    },
+    {
+        "cod_cl1": "1101000732",
+        "NCcosto": "17PD715. Plan maestro Infratructura"
+    },
+    {
+        "cod_cl1": "1101000731",
+        "NCcosto": "17PD718. E.2.2. Restaura Hacienda OTOÑO"
+    },
+    {
+        "cod_cl1": "1101000746",
+        "NCcosto": "17PD72.Sala VIP Profesores Aula máxima"
+    },
+    {
+        "cod_cl1": "1101000747",
+        "NCcosto": "17PD73.Cableado biblioteca"
+    },
+    {
+        "cod_cl1": "1101000738",
+        "NCcosto": "17PD76. Edificio de Posgrados"
+    },
+    {
+        "cod_cl1": "1202000100",
+        "NCcosto": "18PD19 PROYECTO Mejora del Entorno y tec"
+    },
+    {
+        "cod_cl1": "1601010102",
+        "NCcosto": "18PD33 Implementación del modelo de segu"
+    },
+    {
+        "cod_cl1": "1111000101",
+        "NCcosto": "18PD6 Construcción e implementación  del"
+    },
+    {
+        "cod_cl1": "1101000750",
+        "NCcosto": "18PD617 Datacenter"
+    },
+    {
+        "cod_cl1": "1401000104",
+        "NCcosto": "18PD618 Planeación estrategica Vicerecto"
+    },
+    {
+        "cod_cl1": "1101000754",
+        "NCcosto": "18PD7.2.1 Parqueaderos zona deportiva"
+    },
+    {
+        "cod_cl1": "1101000753",
+        "NCcosto": "18PD712 Puesta en funcionamiento centro"
+    },
+    {
+        "cod_cl1": "1101000751",
+        "NCcosto": "18PD722 Rehabilitación edificio L1"
+    },
+    {
+        "cod_cl1": "1101000752",
+        "NCcosto": "18PD78. Ampliación de la capaci"
+    },
+    {
+        "cod_cl1": "1000000008",
+        "NCcosto": "20PD.Diseño del sistema de gestión de Da"
+    },
+    {
+        "cod_cl1": "1106010103",
+        "NCcosto": "20PD55. Sentido de pertenencia"
+    },
+    {
+        "cod_cl1": "1101000755",
+        "NCcosto": "22PD6. Proyecto Aplicación móvil"
+    },
+    {
+        "cod_cl1": "1201000709",
+        "NCcosto": "A.1.1.Creación_programaspregrado 2014"
+    },
+    {
+        "cod_cl1": "1201000707",
+        "NCcosto": "A.1.2. Creación programas de especializa"
+    },
+    {
+        "cod_cl1": "1201000700",
+        "NCcosto": "A.1.2.1.  Programa Especialización Estad"
+    },
+    {
+        "cod_cl1": "1201000710",
+        "NCcosto": "A.1.3.Creación_progra_maestria 2014"
+    },
+    {
+        "cod_cl1": "1601010705",
+        "NCcosto": "A.1.5.3. Propuest_prog_certifica int2014"
+    },
+    {
+        "cod_cl1": "1601010710",
+        "NCcosto": "A.1.5.4. Propuest_Program_virtuales 2014"
+    },
+    {
+        "cod_cl1": "1201000701",
+        "NCcosto": "A.2.1.  Definición del Sistema Gestión"
+    },
+    {
+        "cod_cl1": "1201000702",
+        "NCcosto": "A.2.1.1. Evaluación del Sistema de forma"
+    },
+    {
+        "cod_cl1": "1601010706",
+        "NCcosto": "A.2.1.3. Program_Transvers_Emprend 2014"
+    },
+    {
+        "cod_cl1": "1201000703",
+        "NCcosto": "A.2.1.6. Evaluación de la asignatura de"
+    },
+    {
+        "cod_cl1": "1201000711",
+        "NCcosto": "A.2.1.Atualizac_M/to curriculo 2014"
+    },
+    {
+        "cod_cl1": "1000000710",
+        "NCcosto": "A.2.2***Divulgac_Acreditac_obtenida 2015"
+    },
+    {
+        "cod_cl1": "1401000703",
+        "NCcosto": "A.2.2.*Identificaci_entidad_certifi_2014"
+    },
+    {
+        "cod_cl1": "1401000704",
+        "NCcosto": "A.2.2.1. Model_Autoevaluac_Escuela 2014"
+    },
+    {
+        "cod_cl1": "1401000700",
+        "NCcosto": "A.2.2.11. Programa de Ingeniería Eléctri"
+    },
+    {
+        "cod_cl1": "1401000701",
+        "NCcosto": "A.2.2.12. Programa de Ingeniería de Sist"
+    },
+    {
+        "cod_cl1": "1401000705",
+        "NCcosto": "A.2.2.20. Acreditaci_Institucio_Obt 2014"
+    },
+    {
+        "cod_cl1": "4250004001",
+        "NCcosto": "A.2.2.20. Acreditación institucional OBT"
+    },
+    {
+        "cod_cl1": "1201000712",
+        "NCcosto": "A.3.2.Diseño e ImplemPromuev_invest 2014"
+    },
+    {
+        "cod_cl1": "1601010707",
+        "NCcosto": "A.3.3. Ofrec_nuev_propuest pry inno 2014"
+    },
+    {
+        "cod_cl1": "1601010708",
+        "NCcosto": "A.4.1.Creación_Plan integral_relac 2014"
+    },
+    {
+        "cod_cl1": "4270003004",
+        "NCcosto": "A.4.2. Revisión, actualiz_desarr. conven"
+    },
+    {
+        "cod_cl1": "1207000800",
+        "NCcosto": "Acompañamiento y consultoría Autogermana"
+    },
+    {
+        "cod_cl1": "1613020001",
+        "NCcosto": "Acondicionamiento de Metales y Superfici"
+    },
+    {
+        "cod_cl1": "1211010001",
+        "NCcosto": "ACT_ACD Administración Empresas Activida"
+    },
+    {
+        "cod_cl1": "1201000004",
+        "NCcosto": "ACT_ACD Bienestar"
+    },
+    {
+        "cod_cl1": "1210010001",
+        "NCcosto": "ACT_ACD Economía"
+    },
+    {
+        "cod_cl1": "1209010001",
+        "NCcosto": "ACT_ACD Ing. Electrónica"
+    },
+    {
+        "cod_cl1": "1208010002",
+        "NCcosto": "ACT_ACD Ing. Industrial Académic_est"
+    },
+    {
+        "cod_cl1": "1207010001",
+        "NCcosto": "ACT_ACD Ing. Sistemas Académic_estudian"
+    },
+    {
+        "cod_cl1": "1220010001",
+        "NCcosto": "ACT_ACD Ingenieria Ambiental"
+    },
+    {
+        "cod_cl1": "1205010001",
+        "NCcosto": "ACT_ACD Ingeniería Civil Actividades"
+    },
+    {
+        "cod_cl1": "1206010001",
+        "NCcosto": "ACT_ACD Ingeniería Eléctrica"
+    },
+    {
+        "cod_cl1": "1213010001",
+        "NCcosto": "ACT_ACD Ingeniería Mecánica"
+    },
+    {
+        "cod_cl1": "1201000002",
+        "NCcosto": "ACT_ACD Vicerrectoría Académica"
+    },
+    {
+        "cod_cl1": "1212000001",
+        "NCcosto": "ACT_ACD_Matemáticas para la vida"
+    },
+    {
+        "cod_cl1": "1600111205",
+        "NCcosto": "ACT14. Lanzamiento Normas Ensayo Mate"
+    },
+    {
+        "cod_cl1": "1205000001",
+        "NCcosto": "ACT14. REPIC"
+    },
+    {
+        "cod_cl1": "1290000000",
+        "NCcosto": "Actividad Complementarias B_U"
+    },
+    {
+        "cod_cl1": "1607010007",
+        "NCcosto": "Administración de datos al servicio de l"
+    },
+    {
+        "cod_cl1": "1301010000",
+        "NCcosto": "Admisiones"
+    },
+    {
+        "cod_cl1": "1301010019",
+        "NCcosto": "Admisiones Beca \"JGA\""
+    },
+    {
+        "cod_cl1": "1902000000",
+        "NCcosto": "ADMON_NC_Dotación y Redes"
+    },
+    {
+        "cod_cl1": "1102000020",
+        "NCcosto": "Afectación vial avenida El Polo"
+    },
+    {
+        "cod_cl1": "1610010003",
+        "NCcosto": "Análisis de datos y econometría utiliza"
+    },
+    {
+        "cod_cl1": "1605040002",
+        "NCcosto": "Análisis forense de accidentes de tránsi"
+    },
+    {
+        "cod_cl1": "1106090007",
+        "NCcosto": "Aniversario ECI"
+    },
+    {
+        "cod_cl1": "1613010001",
+        "NCcosto": "ANSYS para la simulación de sistemas din"
+    },
+    {
+        "cod_cl1": "1607010004",
+        "NCcosto": "Arquitectura, Diseño y Modelado de Datos"
+    },
+    {
+        "cod_cl1": "1301010010",
+        "NCcosto": "Articulación / Universidad …."
+    },
+    {
+        "cod_cl1": "1201000802",
+        "NCcosto": "Asistentes internacionales-ORI"
+    },
+    {
+        "cod_cl1": "1106090006",
+        "NCcosto": "Atenciones especiales empleados y famili"
+    },
+    {
+        "cod_cl1": "1105006000",
+        "NCcosto": "Audiovisuales"
+    },
+    {
+        "cod_cl1": "1608030009",
+        "NCcosto": "Auditor Interno ISO 28000:2007 Sistemas"
+    },
+    {
+        "cod_cl1": "1107000000",
+        "NCcosto": "Auditoria Interna"
+    },
+    {
+        "cod_cl1": "4240004001",
+        "NCcosto": "B.1.1.  Revisión y aplicación del proces"
+    },
+    {
+        "cod_cl1": "1301000702",
+        "NCcosto": "B.1.1. Rev_aplicac_proces_selec_adm 2014"
+    },
+    {
+        "cod_cl1": "1301000705",
+        "NCcosto": "B.1.1.2. Políticas_normas_articulac 2014"
+    },
+    {
+        "cod_cl1": "1301000706",
+        "NCcosto": "B.1.1.5. Resultad_análisis OFADMISI 2014"
+    },
+    {
+        "cod_cl1": "1101000718",
+        "NCcosto": "B.1.3. Revis_aplicac_proc_peradmon 2014"
+    },
+    {
+        "cod_cl1": "1201000704",
+        "NCcosto": "B.2.1.4.  Capacitación profesores"
+    },
+    {
+        "cod_cl1": "1201000705",
+        "NCcosto": "B.3.1.2.  Implementación Sistema formaci"
+    },
+    {
+        "cod_cl1": "1101000720",
+        "NCcosto": "B.3.2. Ruta OPTIMIZA 20_01_2014"
+    },
+    {
+        "cod_cl1": "1101000719",
+        "NCcosto": "B.3.3. Proyecto INGENIARTE 2014"
+    },
+    {
+        "cod_cl1": "1201000706",
+        "NCcosto": "B.3.3.2. Reflexión universitaria (diplom"
+    },
+    {
+        "cod_cl1": "1301000704",
+        "NCcosto": "B1.1.4. Resultad_anális_requis_ing 2014"
+    },
+    {
+        "cod_cl1": "1202000000",
+        "NCcosto": "Biblioteca"
+    },
+    {
+        "cod_cl1": "1106010099",
+        "NCcosto": "Bienestar Universitario - Aprendices"
+    },
+    {
+        "cod_cl1": "1106010098",
+        "NCcosto": "Bienestar Universitario - Practicantes"
+    },
+    {
+        "cod_cl1": "1106090003",
+        "NCcosto": "Bienvenida profesores"
+    },
+    {
+        "cod_cl1": "1102000018",
+        "NCcosto": "Bloque A _Adecuación Ascensor"
+    },
+    {
+        "cod_cl1": "1801070001",
+        "NCcosto": "BPIN 2021000100013 Formación de capital"
+    },
+    {
+        "cod_cl1": "1611010001",
+        "NCcosto": "Business Model Canvas  De la idea al mod"
+    },
+    {
+        "cod_cl1": "1000000703",
+        "NCcosto": "C.1.1.Revis_actualiz_divul_norma gob2014"
+    },
+    {
+        "cod_cl1": "4230004001",
+        "NCcosto": "C.1.2.1.  PEI Ajustado y socializado.  A"
+    },
+    {
+        "cod_cl1": "1201000713",
+        "NCcosto": "C.1.2.Revis_actua_div_politylinea_2014"
+    },
+    {
+        "cod_cl1": "1101000700",
+        "NCcosto": "C.1.3.  Revisión, actualización, divulga"
+    },
+    {
+        "cod_cl1": "1101000721",
+        "NCcosto": "C.1.3Revis_actualiz_socializ politi_2014"
+    },
+    {
+        "cod_cl1": "1101000714",
+        "NCcosto": "C.2.1* Fortalecimiento y estructuración"
+    },
+    {
+        "cod_cl1": "1401000702",
+        "NCcosto": "C.2.1.1. Certificación procesos de 2014"
+    },
+    {
+        "cod_cl1": "4260006001",
+        "NCcosto": "C.4.1.2. Política de comunicación intern"
+    },
+    {
+        "cod_cl1": "1501010701",
+        "NCcosto": "C.4.1.2.Política comunicación intern2014"
+    },
+    {
+        "cod_cl1": "1501010700",
+        "NCcosto": "C.4.1.3.Manual identidad institucio_2014"
+    },
+    {
+        "cod_cl1": "4260003002",
+        "NCcosto": "C.4.2.3. Política de mercadeo y promoció"
+    },
+    {
+        "cod_cl1": "1501010703",
+        "NCcosto": "C.4.2.3. Política_mercadeo_promoció 2014"
+    },
+    {
+        "cod_cl1": "1501010702",
+        "NCcosto": "C.4.2.5.CallCenter transform_Contac 2014"
+    },
+    {
+        "cod_cl1": "1501010704",
+        "NCcosto": "C.4.2.6. Tienda virtual cread_puesta2014"
+    },
+    {
+        "cod_cl1": "1112000002",
+        "NCcosto": "Campos Deportivos"
+    },
+    {
+        "cod_cl1": "1211005000",
+        "NCcosto": "Cátedra Administración de Empresas"
+    },
+    {
+        "cod_cl1": "1106005000",
+        "NCcosto": "Cátedra Bienestar Universitario"
+    },
+    {
+        "cod_cl1": "1214005000",
+        "NCcosto": "Cátedra Ciencias Naturales"
+    },
+    {
+        "cod_cl1": "1212025000",
+        "NCcosto": "Cátedra Dpto Matemáticas"
+    },
+    {
+        "cod_cl1": "1210005000",
+        "NCcosto": "Cátedra Economía"
+    },
+    {
+        "cod_cl1": "1205030396",
+        "NCcosto": "Cátedra Especialización  Saneamiento Amb"
+    },
+    {
+        "cod_cl1": "1205040596",
+        "NCcosto": "Cátedra Especialización de Estructuras"
+    },
+    {
+        "cod_cl1": "1205050396",
+        "NCcosto": "Cátedra Especialización Diseño, Construc"
+    },
+    {
+        "cod_cl1": "1205060396",
+        "NCcosto": "Cátedra Especialización Recursos Hidrául"
+    },
+    {
+        "cod_cl1": "1215005000",
+        "NCcosto": "Cátedra Humanidades"
+    },
+    {
+        "cod_cl1": "1220010002",
+        "NCcosto": "Cátedra Ing Ambiental"
+    },
+    {
+        "cod_cl1": "1205005000",
+        "NCcosto": "Cátedra Ingeniería Civil"
+    },
+    {
+        "cod_cl1": "1207005000",
+        "NCcosto": "Cátedra Ingeniería de Sistemas"
+    },
+    {
+        "cod_cl1": "1206005000",
+        "NCcosto": "Cátedra Ingeniería Eléctrica"
+    },
+    {
+        "cod_cl1": "1209005000",
+        "NCcosto": "Cátedra Ingeniería Electrónica"
+    },
+    {
+        "cod_cl1": "1208005000",
+        "NCcosto": "Cátedra Ingeniería Industrial"
+    },
+    {
+        "cod_cl1": "1213005000",
+        "NCcosto": "Cátedra Ingeniería Mecánica"
+    },
+    {
+        "cod_cl1": "1216030001",
+        "NCcosto": "Càtedra Maestría en Desarrollo y Gerenci"
+    },
+    {
+        "cod_cl1": "1205020096",
+        "NCcosto": "Cátedra Maestria Ingeniería Civil"
+    },
+    {
+        "cod_cl1": "1206020001",
+        "NCcosto": "Càtedra Maestria Ingeniería Eléctrica"
+    },
+    {
+        "cod_cl1": "1209050001",
+        "NCcosto": "Càtedra Maestría Ingeniería Electrónica"
+    },
+    {
+        "cod_cl1": "1208070001",
+        "NCcosto": "Càtedra Maestría Ingeniería Industrial"
+    },
+    {
+        "cod_cl1": "1212005000",
+        "NCcosto": "Cátedra Programa Matemáticas"
+    },
+    {
+        "cod_cl1": "1216010001",
+        "NCcosto": "Cátedra Unidad de Proyectos"
+    },
+    {
+        "cod_cl1": "1201005000",
+        "NCcosto": "Cátedra Vicerrectoría Académica"
+    },
+    {
+        "cod_cl1": "1106090009",
+        "NCcosto": "Celebracion del dia de la mujer y dia de"
+    },
+    {
+        "cod_cl1": "1205005005",
+        "NCcosto": "Centro de estudios ambientales"
+    },
+    {
+        "cod_cl1": "1207005002",
+        "NCcosto": "Centro de estudios arquitectura tecnológ"
+    },
+    {
+        "cod_cl1": "1213005001",
+        "NCcosto": "Centro de estudios de diseño de elemento"
+    },
+    {
+        "cod_cl1": "1206005001",
+        "NCcosto": "Centro de estudios de energia"
+    },
+    {
+        "cod_cl1": "1205005001",
+        "NCcosto": "Centro de estudios de estructuras materi"
+    },
+    {
+        "cod_cl1": "1208005004",
+        "NCcosto": "Centro de estudios de gestión de tecnolo"
+    },
+    {
+        "cod_cl1": "1207005004",
+        "NCcosto": "Centro de estudios de la computación"
+    },
+    {
+        "cod_cl1": "1208005001",
+        "NCcosto": "Centro de estudios de optimización"
+    },
+    {
+        "cod_cl1": "1213005002",
+        "NCcosto": "Centro de estudios de procesos de fabric"
+    },
+    {
+        "cod_cl1": "1208005003",
+        "NCcosto": "Centro de estudios de producción"
+    },
+    {
+        "cod_cl1": "1213005003",
+        "NCcosto": "Centro de estudios de sistemas termicos"
+    },
+    {
+        "cod_cl1": "1207005001",
+        "NCcosto": "Centro de estudios de sistemas y organiz"
+    },
+    {
+        "cod_cl1": "1205005002",
+        "NCcosto": "Centro de estudios Geotécnicos"
+    },
+    {
+        "cod_cl1": "1205005003",
+        "NCcosto": "Centro de estudios hidraulicos"
+    },
+    {
+        "cod_cl1": "1207005003",
+        "NCcosto": "Centro de estudios ingenieria de softwar"
+    },
+    {
+        "cod_cl1": "1208005002",
+        "NCcosto": "Centro de estudios sistemas de gestión"
+    },
+    {
+        "cod_cl1": "1205005004",
+        "NCcosto": "Centro de estudios vias y transporte"
+    },
+    {
+        "cod_cl1": "1214011000",
+        "NCcosto": "Ciencias Naturales (Prof)"
+    },
+    {
+        "cod_cl1": "1000000005",
+        "NCcosto": "CLAUSTRO"
+    },
+    {
+        "cod_cl1": "1209010003",
+        "NCcosto": "Club de Ingeniería Tocth"
+    },
+    {
+        "cod_cl1": "1112000000",
+        "NCcosto": "Coliseo El Otoño"
+    },
+    {
+        "cod_cl1": "1106030001",
+        "NCcosto": "Comando de Emergencia"
+    },
+    {
+        "cod_cl1": "1600201206",
+        "NCcosto": "Comportamiento ante cargas laterales del"
+    },
+    {
+        "cod_cl1": "1205000823",
+        "NCcosto": "Comportamiento de muros de concreto y ma"
+    },
+    {
+        "cod_cl1": "1205000828",
+        "NCcosto": "Comportamiento de muros reforzados a fle"
+    },
+    {
+        "cod_cl1": "1110010000",
+        "NCcosto": "Compras y Suministros"
+    },
+    {
+        "cod_cl1": "1110010099",
+        "NCcosto": "Compras y Suministros - Aprendices"
+    },
+    {
+        "cod_cl1": "1205000801",
+        "NCcosto": "CON. Estudios hidrológicos e hidráulicos"
+    },
+    {
+        "cod_cl1": "1205000802",
+        "NCcosto": "CON. Inspección de Seguridad Vial"
+    },
+    {
+        "cod_cl1": "1217000801",
+        "NCcosto": "CON. Proyecto Hospitales Medellín ARL -"
+    },
+    {
+        "cod_cl1": "1211010800",
+        "NCcosto": "CON_VPRE 004_2015 Premio Nal Intervento"
+    },
+    {
+        "cod_cl1": "1217015002",
+        "NCcosto": "Congreso IBERDISCAP"
+    },
+    {
+        "cod_cl1": "1205010007",
+        "NCcosto": "Congreso IPWE"
+    },
+    {
+        "cod_cl1": "1000000007",
+        "NCcosto": "Consejo Directivo"
+    },
+    {
+        "cod_cl1": "1205000814",
+        "NCcosto": "Construcc_base_estabiliz_asfalto Espumos"
+    },
+    {
+        "cod_cl1": "1600007500",
+        "NCcosto": "CONTRATOS Y CONVENIOS - ING_CIVIL 2014"
+    },
+    {
+        "cod_cl1": "1600007170",
+        "NCcosto": "CONTRATOS Y CONVENIOS-ING_BIOMÉDICA 2014"
+    },
+    {
+        "cod_cl1": "1105005001",
+        "NCcosto": "Control de Acceso ECI"
+    },
+    {
+        "cod_cl1": "1213011095",
+        "NCcosto": "CONV.Pasantía Investigativa \"Ingersetec\""
+    },
+    {
+        "cod_cl1": "1217015000",
+        "NCcosto": "Convenio ECI-Rosario Ing. Biomedica"
+    },
+    {
+        "cod_cl1": "1600191205",
+        "NCcosto": "Convenio IRS Vial-IBAGUE NOV 2016"
+    },
+    {
+        "cod_cl1": "1601070000",
+        "NCcosto": "Convenios y Contratos"
+    },
+    {
+        "cod_cl1": "1801020085",
+        "NCcosto": "Convocatorias Años Anteriores"
+    },
+    {
+        "cod_cl1": "1217010099",
+        "NCcosto": "Coord/Decanat Ingenieria Biomedica - Apr"
+    },
+    {
+        "cod_cl1": "1301040000",
+        "NCcosto": "Coordinación Grados"
+    },
+    {
+        "cod_cl1": "1201020000",
+        "NCcosto": "Coordinación Investigación (2014)"
+    },
+    {
+        "cod_cl1": "1301010011",
+        "NCcosto": "Copa Intercolegiada"
+    },
+    {
+        "cod_cl1": "1613030004",
+        "NCcosto": "Curso Aerodnámica Vehicular (AEVE)"
+    },
+    {
+        "cod_cl1": "1619010002",
+        "NCcosto": "Curso Analítica de datos usando Network"
+    },
+    {
+        "cod_cl1": "1607010015",
+        "NCcosto": "Curso Analítica y gobierno de datos para"
+    },
+    {
+        "cod_cl1": "1613010006",
+        "NCcosto": "Curso Ansys para la simulación de sistem"
+    },
+    {
+        "cod_cl1": "1608030006",
+        "NCcosto": "Curso Aplicaciones logísticas en la"
+    },
+    {
+        "cod_cl1": "1608030003",
+        "NCcosto": "Curso Aplicaciones logísticas en la oper"
+    },
+    {
+        "cod_cl1": "1615010007",
+        "NCcosto": "Curso Autoconocimiento y liderazgo entor"
+    },
+    {
+        "cod_cl1": "1608040002",
+        "NCcosto": "Curso Caracterización Avanzada de Materi"
+    },
+    {
+        "cod_cl1": "1616010014",
+        "NCcosto": "Curso Competencia de Comunicación de equ"
+    },
+    {
+        "cod_cl1": "1616010013",
+        "NCcosto": "Curso Competencia de liderazgo de equipo"
+    },
+    {
+        "cod_cl1": "1616010011",
+        "NCcosto": "Curso Competencia de trabajo en equipo p"
+    },
+    {
+        "cod_cl1": "1615010010",
+        "NCcosto": "Curso Comunicación asertiva para el logr"
+    },
+    {
+        "cod_cl1": "1615010005",
+        "NCcosto": "Curso Conflictos y negociación con diálo"
+    },
+    {
+        "cod_cl1": "1607010014",
+        "NCcosto": "Curso Cultura empresarial y gestión de d"
+    },
+    {
+        "cod_cl1": "1613020003",
+        "NCcosto": "Curso de Operación básica en torno paral"
+    },
+    {
+        "cod_cl1": "1608020002",
+        "NCcosto": "Curso Desafiando tu crecimiento personal"
+    },
+    {
+        "cod_cl1": "1613030005",
+        "NCcosto": "Curso Dinámica de Vehículos de Competici"
+    },
+    {
+        "cod_cl1": "1613020005",
+        "NCcosto": "Curso Diseño de herramentales para manuf"
+    },
+    {
+        "cod_cl1": "1613010004",
+        "NCcosto": "Curso Diseño digital y fabricación de au"
+    },
+    {
+        "cod_cl1": "1613010003",
+        "NCcosto": "Curso Diseño y fabricación digital"
+    },
+    {
+        "cod_cl1": "1608040004",
+        "NCcosto": "Curso Economía Circular y Recuperación d"
+    },
+    {
+        "cod_cl1": "1613030006",
+        "NCcosto": "Curso Eficiencia en Calderas (EFCA)"
+    },
+    {
+        "cod_cl1": "1616010012",
+        "NCcosto": "Curso El valor de la ingeniería en el de"
+    },
+    {
+        "cod_cl1": "1607010013",
+        "NCcosto": "Curso El valor de los datos y su ciclo d"
+    },
+    {
+        "cod_cl1": "1607010012",
+        "NCcosto": "Curso Estrategia de datos para organizac"
+    },
+    {
+        "cod_cl1": "1615010011",
+        "NCcosto": "Curso Frankenstein de Mary Sheley, creac"
+    },
+    {
+        "cod_cl1": "1612010002",
+        "NCcosto": "Curso Fundamentos y perspectivas de la s"
+    },
+    {
+        "cod_cl1": "1616010016",
+        "NCcosto": "Curso Gerencia de adquisiciones para ger"
+    },
+    {
+        "cod_cl1": "1616010017",
+        "NCcosto": "Curso Gerencia de proyectos de arquitect"
+    },
+    {
+        "cod_cl1": "1616010015",
+        "NCcosto": "Curso Gerencia de proyectos híbridos (de"
+    },
+    {
+        "cod_cl1": "1616010008",
+        "NCcosto": "Curso Gerencia de riesgos en proyectos"
+    },
+    {
+        "cod_cl1": "1613030002",
+        "NCcosto": "Curso Gerencia estratégica de mantenimie"
+    },
+    {
+        "cod_cl1": "1613030007",
+        "NCcosto": "Curso Gestión de activos y costo del cic"
+    },
+    {
+        "cod_cl1": "1607010016",
+        "NCcosto": "Curso Gestión de información en la era d"
+    },
+    {
+        "cod_cl1": "1608040003",
+        "NCcosto": "Curso Gestión de la Innovación empresari"
+    },
+    {
+        "cod_cl1": "1616010019",
+        "NCcosto": "Curso Gestión del valor ganado"
+    },
+    {
+        "cod_cl1": "1607010009",
+        "NCcosto": "Curso Gobierno de datos: de la teoría a"
+    },
+    {
+        "cod_cl1": "1607010011",
+        "NCcosto": "Curso Gobierno de datos: mitos, realidad"
+    },
+    {
+        "cod_cl1": "1613030001",
+        "NCcosto": "Curso Integridad, riesgo y mantenimiento"
+    },
+    {
+        "cod_cl1": "1616010010",
+        "NCcosto": "Curso Introducción al Estándar y Guía de"
+    },
+    {
+        "cod_cl1": "1604010004",
+        "NCcosto": "Curso Learn to the future Canada"
+    },
+    {
+        "cod_cl1": "1615010006",
+        "NCcosto": "Curso Liderazgo efectivo para la toma de"
+    },
+    {
+        "cod_cl1": "1613010005",
+        "NCcosto": "Curso Makerspace: Diseño Digital de Autó"
+    },
+    {
+        "cod_cl1": "1608040006",
+        "NCcosto": "Curso Manufactura aditiva (impresión 3D)"
+    },
+    {
+        "cod_cl1": "1608030005",
+        "NCcosto": "Curso Mejora continua y creatividad en p"
+    },
+    {
+        "cod_cl1": "1616010018",
+        "NCcosto": "Curso Ms Project para gerentes de proyec"
+    },
+    {
+        "cod_cl1": "1607010017",
+        "NCcosto": "Curso Organizaciones basadas en datos"
+    },
+    {
+        "cod_cl1": "1605030001",
+        "NCcosto": "Curso PAM Academia"
+    },
+    {
+        "cod_cl1": "1616010004",
+        "NCcosto": "Curso Planeación, construcción, operació"
+    },
+    {
+        "cod_cl1": "1615010009",
+        "NCcosto": "Curso Potencia tu liderazgo"
+    },
+    {
+        "cod_cl1": "1616010007",
+        "NCcosto": "Curso Programación y Control de Proyecto"
+    },
+    {
+        "cod_cl1": "1613010007",
+        "NCcosto": "Curso Prototipado"
+    },
+    {
+        "cod_cl1": "1613020004",
+        "NCcosto": "Curso Recuperación de materiales en ener"
+    },
+    {
+        "cod_cl1": "1615010008",
+        "NCcosto": "Curso Relaciones interpersonales = equip"
+    },
+    {
+        "cod_cl1": "1608040005",
+        "NCcosto": "Curso Simulación para la toma de decisio"
+    },
+    {
+        "cod_cl1": "1616010001",
+        "NCcosto": "Curso Taller Preparación Examen de Certi"
+    },
+    {
+        "cod_cl1": "1701000147",
+        "NCcosto": "Curso VERANO_ Maestría Ing. Eléctrica"
+    },
+    {
+        "cod_cl1": "1701000149",
+        "NCcosto": "CursoVERANO_ Maestría en Informática"
+    },
+    {
+        "cod_cl1": "1701000143",
+        "NCcosto": "CursoVERANO_ Programa de Administración"
+    },
+    {
+        "cod_cl1": "1701000144",
+        "NCcosto": "CursoVERANO_ Programa de Economía para I"
+    },
+    {
+        "cod_cl1": "1701000146",
+        "NCcosto": "CursoVERANO_ Programa de Ingeniería Ambi"
+    },
+    {
+        "cod_cl1": "1701000145",
+        "NCcosto": "CursoVERANO_ Programa de Matemáticas - A"
+    },
+    {
+        "cod_cl1": "1701000107",
+        "NCcosto": "CursoVERANO_Doctorado en Ingenieria"
+    },
+    {
+        "cod_cl1": "1701000106",
+        "NCcosto": "CursoVERANO_Maestria Biomedica"
+    },
+    {
+        "cod_cl1": "1217015009",
+        "NCcosto": "CursoVERANO_Maestría Biomedica convenio"
+    },
+    {
+        "cod_cl1": "1701000101",
+        "NCcosto": "CursoVERANO_Maestria Civil"
+    },
+    {
+        "cod_cl1": "1701000104",
+        "NCcosto": "CursoVERANO_Maestria Electronica"
+    },
+    {
+        "cod_cl1": "1701000150",
+        "NCcosto": "CursoVERANO_Maestría en Ciencias Actuari"
+    },
+    {
+        "cod_cl1": "1701000105",
+        "NCcosto": "CursoVERANO_Maestria Gerencia Integral P"
+    },
+    {
+        "cod_cl1": "1701000102",
+        "NCcosto": "CursoVERANO_Maestria Gestion Informacion"
+    },
+    {
+        "cod_cl1": "1701000103",
+        "NCcosto": "CursoVERANO_Maestria Industrial"
+    },
+    {
+        "cod_cl1": "1701000140",
+        "NCcosto": "CursoVERANO_Pregrado Ing Electrica"
+    },
+    {
+        "cod_cl1": "1701000141",
+        "NCcosto": "CursoVERANO_Pregrado Ing Mecánica"
+    },
+    {
+        "cod_cl1": "1701000142",
+        "NCcosto": "CursoVERANO_pregrado Ing. Biomedica"
+    },
+    {
+        "cod_cl1": "1101000701",
+        "NCcosto": "D.1.1.2. Montaje de la Unidad y del prog"
+    },
+    {
+        "cod_cl1": "1601010704",
+        "NCcosto": "D.1.2.  Creación de una unidad que promu"
+    },
+    {
+        "cod_cl1": "1101000702",
+        "NCcosto": "D.1.4.2. Programa de Financiación Direct"
+    },
+    {
+        "cod_cl1": "1607010003",
+        "NCcosto": "Data Governace: sólido, práctico e imple"
+    },
+    {
+        "cod_cl1": "1607010010",
+        "NCcosto": "Data Science Training"
+    },
+    {
+        "cod_cl1": "1607010001",
+        "NCcosto": "Datos al servicio de la organización"
+    },
+    {
+        "cod_cl1": "1212010000",
+        "NCcosto": "Decanatura  Matemáticas"
+    },
+    {
+        "cod_cl1": "1211010000",
+        "NCcosto": "Decanatura de Administración de Empresas"
+    },
+    {
+        "cod_cl1": "1210010000",
+        "NCcosto": "Decanatura de Economía"
+    },
+    {
+        "cod_cl1": "1217010000",
+        "NCcosto": "Decanatura de Ingeniería Biomédica"
+    },
+    {
+        "cod_cl1": "1220010000",
+        "NCcosto": "Decanatura Ingeniería Ambiental"
+    },
+    {
+        "cod_cl1": "1205010000",
+        "NCcosto": "Decanatura Ingeniería Civil"
+    },
+    {
+        "cod_cl1": "1207010000",
+        "NCcosto": "Decanatura Ingeniería de Sistemas"
+    },
+    {
+        "cod_cl1": "1206010000",
+        "NCcosto": "Decanatura Ingeniería Eléctrica"
+    },
+    {
+        "cod_cl1": "1209010000",
+        "NCcosto": "Decanatura Ingeniería Electrónica"
+    },
+    {
+        "cod_cl1": "1221010000",
+        "NCcosto": "Decanatura Ingeniería Estadistica"
+    },
+    {
+        "cod_cl1": "1208010000",
+        "NCcosto": "Decanatura Ingeniería Industrial"
+    },
+    {
+        "cod_cl1": "1213010000",
+        "NCcosto": "Decanatura Ingeniería Mecánica"
+    },
+    {
+        "cod_cl1": "1219000000",
+        "NCcosto": "Departamento Matematicas"
+    },
+    {
+        "cod_cl1": "1106040000",
+        "NCcosto": "Deporte Dirigido (No BU) 2014"
+    },
+    {
+        "cod_cl1": "1613020002",
+        "NCcosto": "Desarrollo de Herramentales para Manufac"
+    },
+    {
+        "cod_cl1": "1205000834",
+        "NCcosto": "DESARROLLO DEL MODELO DE EXPOSICIÓN DE E"
+    },
+    {
+        "cod_cl1": "1201010000",
+        "NCcosto": "Desarrollo Profesoral -VAcademica 2014"
+    },
+    {
+        "cod_cl1": "1217015004",
+        "NCcosto": "Deserción de Estudiantes-Convenio Bioméd"
+    },
+    {
+        "cod_cl1": "1611010002",
+        "NCcosto": "Design Thinking Diseño de Soluciones par"
+    },
+    {
+        "cod_cl1": "1601010003",
+        "NCcosto": "Día de la gestión social de proyectos"
+    },
+    {
+        "cod_cl1": "1106090001",
+        "NCcosto": "Día de la Madre"
+    },
+    {
+        "cod_cl1": "1106090002",
+        "NCcosto": "Día de la Secretaria"
+    },
+    {
+        "cod_cl1": "1106090004",
+        "NCcosto": "Día Profesor"
+    },
+    {
+        "cod_cl1": "1608030001",
+        "NCcosto": "Diplomado Aplicaciones logísticas en Exc"
+    },
+    {
+        "cod_cl1": "1621010002",
+        "NCcosto": "Diplomado Business Analytics and Risk An"
+    },
+    {
+        "cod_cl1": "1607020003",
+        "NCcosto": "Diplomado Ciberseguridad"
+    },
+    {
+        "cod_cl1": "1607010019",
+        "NCcosto": "Diplomado Ciudades inteligentes, una rea"
+    },
+    {
+        "cod_cl1": "1606010001",
+        "NCcosto": "Diplomado Energías renovables"
+    },
+    {
+        "cod_cl1": "1608030007",
+        "NCcosto": "Diplomado Excel &Supply Chain"
+    },
+    {
+        "cod_cl1": "1608080001",
+        "NCcosto": "Diplomado Gerencia de Proyectos de TI"
+    },
+    {
+        "cod_cl1": "1616010023",
+        "NCcosto": "Diplomado Gerencia de Proyectos de TI"
+    },
+    {
+        "cod_cl1": "1613030003",
+        "NCcosto": "Diplomado Gestión de Activos (Electrohui"
+    },
+    {
+        "cod_cl1": "1607010021",
+        "NCcosto": "Diplomado Gestión y gobierno de datos, p"
+    },
+    {
+        "cod_cl1": "1611010005",
+        "NCcosto": "Diplomado Innovación y Emprendimiento"
+    },
+    {
+        "cod_cl1": "1621010001",
+        "NCcosto": "Diplomado Liderazgo de proyectos estraté"
+    },
+    {
+        "cod_cl1": "1611010006",
+        "NCcosto": "Diplomado Marketing Digital y E-Commerce"
+    },
+    {
+        "cod_cl1": "1603010001",
+        "NCcosto": "Diplomado Propiedad Intelectual, Transfe"
+    },
+    {
+        "cod_cl1": "1618010001",
+        "NCcosto": "Diplomado Propiedad Intelectual, Transfe"
+    },
+    {
+        "cod_cl1": "1600002002",
+        "NCcosto": "diplomado Seguridad en el Sector Eléctri"
+    },
+    {
+        "cod_cl1": "1606010004",
+        "NCcosto": "Diplomado Seguridad Frente al riesgo elé"
+    },
+    {
+        "cod_cl1": "1606010002",
+        "NCcosto": "Diplomado Sistemas de iluminación con én"
+    },
+    {
+        "cod_cl1": "1607010020",
+        "NCcosto": "Diplomado Transformación digital apoyada"
+    },
+    {
+        "cod_cl1": "1214010000",
+        "NCcosto": "Dirección Ciencias Naturales"
+    },
+    {
+        "cod_cl1": "1215010000",
+        "NCcosto": "Dirección de Humanidades"
+    },
+    {
+        "cod_cl1": "1801000000",
+        "NCcosto": "Direccion de Investigación"
+    },
+    {
+        "cod_cl1": "1501010000",
+        "NCcosto": "Dirección de Mercadeo y Comunicaciones I"
+    },
+    {
+        "cod_cl1": "1701000000",
+        "NCcosto": "Dirección de Posgrados"
+    },
+    {
+        "cod_cl1": "1103010000",
+        "NCcosto": "Dirección Financiera"
+    },
+    {
+        "cod_cl1": "1801030000",
+        "NCcosto": "Direccion Gral de Laboratorios"
+    },
+    {
+        "cod_cl1": "1105005000",
+        "NCcosto": "Dirección Osiris"
+    },
+    {
+        "cod_cl1": "1102000000",
+        "NCcosto": "Dirección Planta Física y Mantenimiento"
+    },
+    {
+        "cod_cl1": "1104005000",
+        "NCcosto": "Dirección Recursos Humanos"
+    },
+    {
+        "cod_cl1": "1213011090",
+        "NCcosto": "Diseño y construcción de un dispositivo"
+    },
+    {
+        "cod_cl1": "1702001000",
+        "NCcosto": "Doctorado en Ingeniería"
+    },
+    {
+        "cod_cl1": "1301020000",
+        "NCcosto": "Documentación"
+    },
+    {
+        "cod_cl1": "1212021000",
+        "NCcosto": "Dpto de Matemáticas (Prof)"
+    },
+    {
+        "cod_cl1": "1205000808",
+        "NCcosto": "DRUMMOND 2014 (4 PRY. NUEVOS)"
+    },
+    {
+        "cod_cl1": "1205000821",
+        "NCcosto": "DRUMMOND CMLTD-0100296466"
+    },
+    {
+        "cod_cl1": "1205000825",
+        "NCcosto": "DRUMMOND CMLTD-0100309905"
+    },
+    {
+        "cod_cl1": "1205000826",
+        "NCcosto": "DRUMMOND CMLTD-0100321844"
+    },
+    {
+        "cod_cl1": "1205000831",
+        "NCcosto": "DRUMMOND CMLTD-0100351114 Consultoría pa"
+    },
+    {
+        "cod_cl1": "1205000833",
+        "NCcosto": "DRUMMOND CMLTD0100371370 CONSULTORÍA ESP"
+    },
+    {
+        "cod_cl1": "1205000807",
+        "NCcosto": "DRUMMOND LTD. 2014 (2) ARROYO ZORRO"
+    },
+    {
+        "cod_cl1": "1101000703",
+        "NCcosto": "E.1.4.  Estudios de Ingeniería 2013 Fa"
+    },
+    {
+        "cod_cl1": "1115000704",
+        "NCcosto": "E.1.4. Acabados (2014)"
+    },
+    {
+        "cod_cl1": "1115000707",
+        "NCcosto": "E.1.4. Carpinterias (2014)"
+    },
+    {
+        "cod_cl1": "1115000709",
+        "NCcosto": "E.1.4. Construcción (2014)"
+    },
+    {
+        "cod_cl1": "1115000710",
+        "NCcosto": "E.1.4. Contingencias (2014)"
+    },
+    {
+        "cod_cl1": "1115000715",
+        "NCcosto": "E.1.4. Dotacion y redes nuevos laborator"
+    },
+    {
+        "cod_cl1": "1115000706",
+        "NCcosto": "E.1.4. Equipos y Dotación (2014)"
+    },
+    {
+        "cod_cl1": "9999999997",
+        "NCcosto": "E.1.4. Escuela Genérico–Proyecto Laborat"
+    },
+    {
+        "cod_cl1": "1115000712",
+        "NCcosto": "E.1.4. Estudios Técnicos y Licencia(2014"
+    },
+    {
+        "cod_cl1": "1115000705",
+        "NCcosto": "E.1.4. Instalaciones Técnicas (2014)"
+    },
+    {
+        "cod_cl1": "1115000703",
+        "NCcosto": "E.1.4. Obra Gris (2014)"
+    },
+    {
+        "cod_cl1": "1115000701",
+        "NCcosto": "E.1.4. Subestructura (2014)"
+    },
+    {
+        "cod_cl1": "1115000702",
+        "NCcosto": "E.1.4. Superestructura (2014)"
+    },
+    {
+        "cod_cl1": "1115000711",
+        "NCcosto": "E.1.4. Urbanismo (2014)"
+    },
+    {
+        "cod_cl1": "1115100716",
+        "NCcosto": "E.1.4.1.* Ed. Lab. Alejandro Sandino P."
+    },
+    {
+        "cod_cl1": "1101000723",
+        "NCcosto": "E.1.4.Diseñoyconstdenuevos20-01-2014"
+    },
+    {
+        "cod_cl1": "1101000704",
+        "NCcosto": "E.2.1.1.  Construcció_reforzam_BloC 2014"
+    },
+    {
+        "cod_cl1": "1101000710",
+        "NCcosto": "E.2.3.2.  Dotación recursos audio 2014"
+    },
+    {
+        "cod_cl1": "4220607001",
+        "NCcosto": "E.2.4.  Cubrimiento del Programa de gest"
+    },
+    {
+        "cod_cl1": "1101000725",
+        "NCcosto": "E.2.5. Adecuación y dotación Edificio G"
+    },
+    {
+        "cod_cl1": "1101000724",
+        "NCcosto": "E.2.5. ParqueaderoColiseo Adec_acc_CR49"
+    },
+    {
+        "cod_cl1": "4220607002",
+        "NCcosto": "E.2.5.12. Intervención riesgos seguridad"
+    },
+    {
+        "cod_cl1": "1101000707",
+        "NCcosto": "E.2.5.14. Construcción tanque reserv2014"
+    },
+    {
+        "cod_cl1": "1101000727",
+        "NCcosto": "E.2.5.15. Plataforma BMS"
+    },
+    {
+        "cod_cl1": "1101000728",
+        "NCcosto": "E.2.5.16. Planta emergencia (EdIF A)"
+    },
+    {
+        "cod_cl1": "1101000729",
+        "NCcosto": "E.2.5.17. Conexión alcantarillado a red"
+    },
+    {
+        "cod_cl1": "1101000706",
+        "NCcosto": "E.2.5.3.  Actualiz_Plano Topográfic2014"
+    },
+    {
+        "cod_cl1": "1101000708",
+        "NCcosto": "E.2.5.4. Construcción red pararrayo2014"
+    },
+    {
+        "cod_cl1": "1101000705",
+        "NCcosto": "E.2.5.5.  Construcción cerramiento 2014"
+    },
+    {
+        "cod_cl1": "1101000709",
+        "NCcosto": "E.2.5.6.  Sistema de bombeo incendi2014"
+    },
+    {
+        "cod_cl1": "4220207008",
+        "NCcosto": "E.2.5.7. Construcción de tanque séptico"
+    },
+    {
+        "cod_cl1": "1301000700",
+        "NCcosto": "E.2.6. Desarrollo e implantación del Sis"
+    },
+    {
+        "cod_cl1": "1301000701",
+        "NCcosto": "E.2.6.2. Construccporteria peatonal2013"
+    },
+    {
+        "cod_cl1": "1301010703",
+        "NCcosto": "E.2.6.3 Estudio _carne 2014 OBRA"
+    },
+    {
+        "cod_cl1": "1301000703",
+        "NCcosto": "E.2.6.3 Estudio nueva necesid_carne 2014"
+    },
+    {
+        "cod_cl1": "1101000726",
+        "NCcosto": "E.4.1.6.Plan Unifica_Comunic_Telefoni_IP"
+    },
+    {
+        "cod_cl1": "4240006001",
+        "NCcosto": "E.4.3.  Desarrollo e implementación del"
+    },
+    {
+        "cod_cl1": "1201000001",
+        "NCcosto": "ECICIENCIA"
+    },
+    {
+        "cod_cl1": "1217015005",
+        "NCcosto": "Eciciencia- Convenio"
+    },
+    {
+        "cod_cl1": "1301010012",
+        "NCcosto": "Ecimatch"
+    },
+    {
+        "cod_cl1": "1610010002",
+        "NCcosto": "Economía y Finanzas para Profesores de"
+    },
+    {
+        "cod_cl1": "1600161205",
+        "NCcosto": "EDC.1205 Diplomado Gestion de Seguridad"
+    },
+    {
+        "cod_cl1": "1600181205",
+        "NCcosto": "EDC.1205 Semin_Accidentol_vial IRS-2"
+    },
+    {
+        "cod_cl1": "1600171205",
+        "NCcosto": "EDC.1205 Semin_Accidentolog_vial IRS"
+    },
+    {
+        "cod_cl1": "1600141205",
+        "NCcosto": "EDC1205 Diplom Seguridad Vial, IRS"
+    },
+    {
+        "cod_cl1": "1600131205",
+        "NCcosto": "EDC1205 Diplom Supervisión Técnica Obras"
+    },
+    {
+        "cod_cl1": "1600151205",
+        "NCcosto": "EDC1205 Diplomado Túneles Suelo y Roca"
+    },
+    {
+        "cod_cl1": "1600101205",
+        "NCcosto": "EDC1205. Dipl. Física Aplicada Inves2014"
+    },
+    {
+        "cod_cl1": "1600121205",
+        "NCcosto": "EDC1205.Dipl. Invest y Reconstr Accident"
+    },
+    {
+        "cod_cl1": "1600011216",
+        "NCcosto": "EDC1216. I Encuentro Gerentes Proyectos"
+    },
+    {
+        "cod_cl1": "1203030000",
+        "NCcosto": "Editorial"
+    },
+    {
+        "cod_cl1": "1601030098",
+        "NCcosto": "Educación continuada - Practicantes"
+    },
+    {
+        "cod_cl1": "1600001211",
+        "NCcosto": "Educación Continuada Administración Empr"
+    },
+    {
+        "cod_cl1": "1600001214",
+        "NCcosto": "Educación Continuada Ciencias Naturales"
+    },
+    {
+        "cod_cl1": "1600001204",
+        "NCcosto": "Educacion Continuada Departamento de Mat"
+    },
+    {
+        "cod_cl1": "1600001210",
+        "NCcosto": "Educación Continuada Economía"
+    },
+    {
+        "cod_cl1": "1600001215",
+        "NCcosto": "Educación Continuada Humanidades"
+    },
+    {
+        "cod_cl1": "1600001220",
+        "NCcosto": "Educación Continuada Ingenieria Ambienta"
+    },
+    {
+        "cod_cl1": "1600001217",
+        "NCcosto": "Educación Continuada Ingeniería Biomédic"
+    },
+    {
+        "cod_cl1": "1600001205",
+        "NCcosto": "Educación Continuada Ingeniería Civil"
+    },
+    {
+        "cod_cl1": "1600001207",
+        "NCcosto": "Educación Continuada Ingeniería de Siste"
+    },
+    {
+        "cod_cl1": "1600001206",
+        "NCcosto": "Educación Continuada Ingeniería Eléctric"
+    },
+    {
+        "cod_cl1": "1600001209",
+        "NCcosto": "Educación Continuada Ingeniería Electrón"
+    },
+    {
+        "cod_cl1": "1600001208",
+        "NCcosto": "Educación Continuada Ingeniería Industri"
+    },
+    {
+        "cod_cl1": "1600001213",
+        "NCcosto": "Educación Continuada Ingeniería Mecánica"
+    },
+    {
+        "cod_cl1": "1600002000",
+        "NCcosto": "Educación Continuada Interdisciplinario"
+    },
+    {
+        "cod_cl1": "1600001212",
+        "NCcosto": "Educación Continuada Matemáticas"
+    },
+    {
+        "cod_cl1": "1600001216",
+        "NCcosto": "Educación Continuada Unidad de Proyectos"
+    },
+    {
+        "cod_cl1": "1600001601",
+        "NCcosto": "Educación Continuada Unidad Gestión Exte"
+    },
+    {
+        "cod_cl1": "1611010000",
+        "NCcosto": "EDUCON Administración Empresas"
+    },
+    {
+        "cod_cl1": "1605050000",
+        "NCcosto": "EDUCON CE Ambientales"
+    },
+    {
+        "cod_cl1": "1607020000",
+        "NCcosto": "EDUCON CE Arquitectura tecnológica y seg"
+    },
+    {
+        "cod_cl1": "1613010000",
+        "NCcosto": "EDUCON CE Diseño de elementos y sistemas"
+    },
+    {
+        "cod_cl1": "1606010000",
+        "NCcosto": "EDUCON CE Energia"
+    },
+    {
+        "cod_cl1": "1605010000",
+        "NCcosto": "EDUCON CE Estructuras materiales y const"
+    },
+    {
+        "cod_cl1": "1608040000",
+        "NCcosto": "EDUCON CE Gestión de tecnología e innova"
+    },
+    {
+        "cod_cl1": "1608010000",
+        "NCcosto": "EDUCON CE Optimización"
+    },
+    {
+        "cod_cl1": "1613020000",
+        "NCcosto": "EDUCON CE Procesos de fabricación de ele"
+    },
+    {
+        "cod_cl1": "1608030000",
+        "NCcosto": "EDUCON CE Producción"
+    },
+    {
+        "cod_cl1": "1608020000",
+        "NCcosto": "EDUCON CE Sistemas de gestión"
+    },
+    {
+        "cod_cl1": "1613030000",
+        "NCcosto": "EDUCON CE Sistemas termicos y mecanicos"
+    },
+    {
+        "cod_cl1": "1607010000",
+        "NCcosto": "EDUCON CE Sistemas y organizaciones"
+    },
+    {
+        "cod_cl1": "1605040000",
+        "NCcosto": "EDUCON CE Vias y transporte"
+    },
+    {
+        "cod_cl1": "1614010000",
+        "NCcosto": "EDUCON Ciencias Naturales"
+    },
+    {
+        "cod_cl1": "1619010000",
+        "NCcosto": "EDUCON Departamento de Matemáticas"
+    },
+    {
+        "cod_cl1": "1610010000",
+        "NCcosto": "EDUCON Economía"
+    },
+    {
+        "cod_cl1": "1615010000",
+        "NCcosto": "EDUCON Humanidades"
+    },
+    {
+        "cod_cl1": "1612010000",
+        "NCcosto": "EDUCON Matemáticas"
+    },
+    {
+        "cod_cl1": "1616010000",
+        "NCcosto": "EDUCON Unidad de Proyectos"
+    },
+    {
+        "cod_cl1": "1604010000",
+        "NCcosto": "EDUCON Unidad Gestión Externa"
+    },
+    {
+        "cod_cl1": "1615010012",
+        "NCcosto": "El liderazgo en la toma de decisiones es"
+    },
+    {
+        "cod_cl1": "1106050000",
+        "NCcosto": "Electiva Bienestar Universitario"
+    },
+    {
+        "cod_cl1": "1801040000",
+        "NCcosto": "EMPRENDIMIENTO"
+    },
+    {
+        "cod_cl1": "1301010013",
+        "NCcosto": "Encuento Padres"
+    },
+    {
+        "cod_cl1": "1301010014",
+        "NCcosto": "Encuentro Colegios"
+    },
+    {
+        "cod_cl1": "1601020002",
+        "NCcosto": "Encuentro de Graduados"
+    },
+    {
+        "cod_cl1": "1601050002",
+        "NCcosto": "Encuentro Institucional de Prácticas Pro"
+    },
+    {
+        "cod_cl1": "1205000830",
+        "NCcosto": "ENSAYOS DE LABORATORIO PARA REFORZAMIENT"
+    },
+    {
+        "cod_cl1": "8888888884",
+        "NCcosto": "Entrada Inventario Centro de Reflexión"
+    },
+    {
+        "cod_cl1": "8888888883",
+        "NCcosto": "Entrada Inventario Edificio L1"
+    },
+    {
+        "cod_cl1": "8888888882",
+        "NCcosto": "Entrada Inventarios Cafeteria"
+    },
+    {
+        "cod_cl1": "8888888881",
+        "NCcosto": "Entrada Inventarios Edificio H"
+    },
+    {
+        "cod_cl1": "8888888888",
+        "NCcosto": "Entrada Inventarios Nuevas Obras"
+    },
+    {
+        "cod_cl1": "1615010003",
+        "NCcosto": "Escritura de artículos científicos"
+    },
+    {
+        "cod_cl1": "1601010002",
+        "NCcosto": "Escuela de Liderazgo"
+    },
+    {
+        "cod_cl1": "1701000100",
+        "NCcosto": "Escuela de Verano"
+    },
+    {
+        "cod_cl1": "999999998",
+        "NCcosto": "ESCUELA PLANTA FISICA Generico"
+    },
+    {
+        "cod_cl1": "1208040199",
+        "NCcosto": "Especialización  Gestión Integrada QHSE"
+    },
+    {
+        "cod_cl1": "1205040500",
+        "NCcosto": "Especialización de Estructuras"
+    },
+    {
+        "cod_cl1": "1205050300",
+        "NCcosto": "Especialización Diseño, Construcción y C"
+    },
+    {
+        "cod_cl1": "1210030000",
+        "NCcosto": "Especialización Economía para Ingenieros"
+    },
+    {
+        "cod_cl1": "1216020000",
+        "NCcosto": "Especialización en Desarrollo y Gerencia"
+    },
+    {
+        "cod_cl1": "1205070500",
+        "NCcosto": "Especialización en Ingeniería de Fundaci"
+    },
+    {
+        "cod_cl1": "1207050000",
+        "NCcosto": "Especialización en Telemática"
+    },
+    {
+        "cod_cl1": "1208020100",
+        "NCcosto": "Especialización Gerencia de Operaciones"
+    },
+    {
+        "cod_cl1": "1208040100",
+        "NCcosto": "Especialización Gestión Integrada QHSE"
+    },
+    {
+        "cod_cl1": "1208050100",
+        "NCcosto": "Especialización Gestión Integrada SST"
+    },
+    {
+        "cod_cl1": "1205060300",
+        "NCcosto": "Especialización Recursos Hidráulicos y M"
+    },
+    {
+        "cod_cl1": "1205030300",
+        "NCcosto": "Especialización Saneamiento Ambiental"
+    },
+    {
+        "cod_cl1": "1607010005",
+        "NCcosto": "Estrategia de Calidad, Seguridad y Priva"
+    },
+    {
+        "cod_cl1": "1208000800",
+        "NCcosto": "Estudio de medición y análisis de cargas"
+    },
+    {
+        "cod_cl1": "1205000829",
+        "NCcosto": "EVALUACIÓN DEL COMPORTAMIENTO DEL SISTEM"
+    },
+    {
+        "cod_cl1": "1616010024",
+        "NCcosto": "Exámenes de certificación de PeopleCert"
+    },
+    {
+        "cod_cl1": "1000000009",
+        "NCcosto": "Expropiación lote Escuela - IDU"
+    },
+    {
+        "cod_cl1": "1203030001",
+        "NCcosto": "Feria del Libro"
+    },
+    {
+        "cod_cl1": "1301010015",
+        "NCcosto": "Ferias Universitarias Locales y Nacional"
+    },
+    {
+        "cod_cl1": "1610010001",
+        "NCcosto": "Finanzas básicas para gerentes y empresa"
+    },
+    {
+        "cod_cl1": "1000000004",
+        "NCcosto": "Fondo de Becas Eduardo Silva Sánchez"
+    },
+    {
+        "cod_cl1": "1103030001",
+        "NCcosto": "Fondo Regalías libro de pavimentos"
+    },
+    {
+        "cod_cl1": "1608010001",
+        "NCcosto": "Forecast basado en TIC"
+    },
+    {
+        "cod_cl1": "1209010010",
+        "NCcosto": "Foro Colombiano Educ. Ingenieria"
+    },
+    {
+        "cod_cl1": "1600201205",
+        "NCcosto": "Generar protocolo de ensayo a corte en m"
+    },
+    {
+        "cod_cl1": "9999999999",
+        "NCcosto": "Generico Compras"
+    },
+    {
+        "cod_cl1": "9999999996",
+        "NCcosto": "Genérico Educación Continuada-UGE"
+    },
+    {
+        "cod_cl1": "1616010003",
+        "NCcosto": "Gerencia de proyectos con énfasis en ges"
+    },
+    {
+        "cod_cl1": "1616010009",
+        "NCcosto": "Gerencia de riesgos en proyectos de infr"
+    },
+    {
+        "cod_cl1": "1607010002",
+        "NCcosto": "Gestión de datos"
+    },
+    {
+        "cod_cl1": "1608030004",
+        "NCcosto": "Gestión de inventarios en el sector salu"
+    },
+    {
+        "cod_cl1": "1608040001",
+        "NCcosto": "Gestión de la innovación"
+    },
+    {
+        "cod_cl1": "1616010022",
+        "NCcosto": "Gestión de Proyectos: Fundamentos del Mé"
+    },
+    {
+        "cod_cl1": "1607010006",
+        "NCcosto": "Gestión efectiva de datos maestros, meta"
+    },
+    {
+        "cod_cl1": "1612010001",
+        "NCcosto": "Gestión financiera en tiempos de crisis"
+    },
+    {
+        "cod_cl1": "1217015010",
+        "NCcosto": "Grados Convenio Biomedica"
+    },
+    {
+        "cod_cl1": "1801020108",
+        "NCcosto": "GRU. Grupo de Investigación DSIM"
+    },
+    {
+        "cod_cl1": "1607020002",
+        "NCcosto": "Hacking ético"
+    },
+    {
+        "cod_cl1": "1615010004",
+        "NCcosto": "Herramientas de liderazgo para equipos e"
+    },
+    {
+        "cod_cl1": "1615010002",
+        "NCcosto": "Herramientas de liderazgo, comunicación"
+    },
+    {
+        "cod_cl1": "1619010001",
+        "NCcosto": "Herramientas para el análisis computacio"
+    },
+    {
+        "cod_cl1": "1000000003",
+        "NCcosto": "Homenaje Póstumo al Ing. Eduardo Silva"
+    },
+    {
+        "cod_cl1": "1215011000",
+        "NCcosto": "Humanidades (prof)"
+    },
+    {
+        "cod_cl1": "1301010016",
+        "NCcosto": "ICFES"
+    },
+    {
+        "cod_cl1": "1605040001",
+        "NCcosto": "IICONGRESO INTERNACIONAL DE ACCIDENTOLOG"
+    },
+    {
+        "cod_cl1": "1103010001",
+        "NCcosto": "Imprevistos presupuestales"
+    },
+    {
+        "cod_cl1": "1201000108",
+        "NCcosto": "Inaguración Edificio Sandino"
+    },
+    {
+        "cod_cl1": "1115000717",
+        "NCcosto": "Inauguración Edificaciones."
+    },
+    {
+        "cod_cl1": "1607020001",
+        "NCcosto": "Informática forense"
+    },
+    {
+        "cod_cl1": "1208010098",
+        "NCcosto": "Ingeniería Industrial - Decanatura Ingen"
+    },
+    {
+        "cod_cl1": "1213011099",
+        "NCcosto": "Ingenieria Mecanica - Aprendices"
+    },
+    {
+        "cod_cl1": "1213011000",
+        "NCcosto": "Ingeniería Mecánica (Prof)"
+    },
+    {
+        "cod_cl1": "1801060000",
+        "NCcosto": "Innovación y Transferencia"
+    },
+    {
+        "cod_cl1": "1217015003",
+        "NCcosto": "Investigación Convenio Biomédica"
+    },
+    {
+        "cod_cl1": "1106070001",
+        "NCcosto": "Jornada de Inducción"
+    },
+    {
+        "cod_cl1": "1000000002",
+        "NCcosto": "Jornada de Reflexión"
+    },
+    {
+        "cod_cl1": "1601070001",
+        "NCcosto": "Jóvenes a la U - ATENEA"
+    },
+    {
+        "cod_cl1": "1102000011",
+        "NCcosto": "Laboratorio Alejandro Sandino"
+    },
+    {
+        "cod_cl1": "1205010002",
+        "NCcosto": "LABORATORIO AMBIENTAL"
+    },
+    {
+        "cod_cl1": "1214010001",
+        "NCcosto": "Laboratorio Ciencias Naturales"
+    },
+    {
+        "cod_cl1": "1217015007",
+        "NCcosto": "Laboratorio Convenio Ing Biomedica"
+    },
+    {
+        "cod_cl1": "1206010002",
+        "NCcosto": "Laboratorio de Energía"
+    },
+    {
+        "cod_cl1": "1205010006",
+        "NCcosto": "Laboratorio de estructuras"
+    },
+    {
+        "cod_cl1": "1214010002",
+        "NCcosto": "Laboratorio de Fisica"
+    },
+    {
+        "cod_cl1": "1205010005",
+        "NCcosto": "LABORATORIO DE GEOMATICA"
+    },
+    {
+        "cod_cl1": "1205010003",
+        "NCcosto": "LABORATORIO DE GEOTECNIA"
+    },
+    {
+        "cod_cl1": "1205010004",
+        "NCcosto": "LABORATORIO DE HIDRAULICA"
+    },
+    {
+        "cod_cl1": "1207060000",
+        "NCcosto": "Laboratorio de Informatica"
+    },
+    {
+        "cod_cl1": "1208060000",
+        "NCcosto": "Laboratorio de Producción"
+    },
+    {
+        "cod_cl1": "1214010003",
+        "NCcosto": "Laboratorio de Quimica"
+    },
+    {
+        "cod_cl1": "1213010101",
+        "NCcosto": "Laboratorio Diseño de elementos y sistem"
+    },
+    {
+        "cod_cl1": "1213010102",
+        "NCcosto": "Laboratorio Fabricación de elementos mec"
+    },
+    {
+        "cod_cl1": "1217010001",
+        "NCcosto": "Laboratorio Ingenieria Biomédica"
+    },
+    {
+        "cod_cl1": "1209010002",
+        "NCcosto": "Laboratorio Ingeniería Electrónica"
+    },
+    {
+        "cod_cl1": "1213010100",
+        "NCcosto": "Laboratorio Ingenieria Mecánica"
+    },
+    {
+        "cod_cl1": "1213010103",
+        "NCcosto": "Laboratorio Sistemas termicos y mecanico"
+    },
+    {
+        "cod_cl1": "1203000001",
+        "NCcosto": "Lanzamiento Editorial"
+    },
+    {
+        "cod_cl1": "1611010003",
+        "NCcosto": "Lean Startup Metodología para acelerar s"
+    },
+    {
+        "cod_cl1": "1205000827",
+        "NCcosto": "Longitud de Anclaje para barras de FRP e"
+    },
+    {
+        "cod_cl1": "1211010700",
+        "NCcosto": "MADM1. Fortalecimiento de la investigaci"
+    },
+    {
+        "cod_cl1": "1211010702",
+        "NCcosto": "MADM3. Programa de Comunicación y promoc"
+    },
+    {
+        "cod_cl1": "1211010703",
+        "NCcosto": "MADM4. Reforzar la relación del programa"
+    },
+    {
+        "cod_cl1": "1211010704",
+        "NCcosto": "MADM5. Seguimiento y Control de la relac"
+    },
+    {
+        "cod_cl1": "1208080000",
+        "NCcosto": "Maestría en Ciencia de datos"
+    },
+    {
+        "cod_cl1": "1212030000",
+        "NCcosto": "Maestría en Ciencias Actuariales"
+    },
+    {
+        "cod_cl1": "1216030000",
+        "NCcosto": "Maestría en Desarrollo y Gerencia Integr"
+    },
+    {
+        "cod_cl1": "1207080000",
+        "NCcosto": "Maestría en Informatica"
+    },
+    {
+        "cod_cl1": "1207070000",
+        "NCcosto": "Maestria Gestión de Información"
+    },
+    {
+        "cod_cl1": "1207070096",
+        "NCcosto": "Maestria Gestión de la Información - cát"
+    },
+    {
+        "cod_cl1": "1217015006",
+        "NCcosto": "Maestría Ing. Biomédica Convenio ECI-Ros"
+    },
+    {
+        "cod_cl1": "1205020000",
+        "NCcosto": "Maestria Ingeniería Civil"
+    },
+    {
+        "cod_cl1": "1206020000",
+        "NCcosto": "Maestria Ingeniería Eléctrica"
+    },
+    {
+        "cod_cl1": "1209050000",
+        "NCcosto": "Maestría Ingeniería Electrónica"
+    },
+    {
+        "cod_cl1": "1208070000",
+        "NCcosto": "Maestría Ingeniería Industrial"
+    },
+    {
+        "cod_cl1": "1501010708",
+        "NCcosto": "Marketing Automation"
+    },
+    {
+        "cod_cl1": "1212010708",
+        "NCcosto": "MATE 1 ( 21-25) Aumentar la visibilidad"
+    },
+    {
+        "cod_cl1": "1212010709",
+        "NCcosto": "MATE 2 ( 21-25)Fortalecimiento de la rel"
+    },
+    {
+        "cod_cl1": "1212010710",
+        "NCcosto": "MATE 3 ( 21-25)Incremento de la població"
+    },
+    {
+        "cod_cl1": "1212010711",
+        "NCcosto": "MATE 4 ( 21-25) Incrementar la permanenc"
+    },
+    {
+        "cod_cl1": "1217015013",
+        "NCcosto": "MBIO_Fortalecimiento de Procesos Curricu"
+    },
+    {
+        "cod_cl1": "1217015012",
+        "NCcosto": "MBIO_Mejoramiento de procesos de gestión"
+    },
+    {
+        "cod_cl1": "1217015001",
+        "NCcosto": "MBIOMED. Fortalec_Ident_programa (FILP)"
+    },
+    {
+        "cod_cl1": "1205010719",
+        "NCcosto": "MCIV(19-27).INNOVUS - Diseño e implemen"
+    },
+    {
+        "cod_cl1": "1205010718",
+        "NCcosto": "MCIV(19-27).VESTIGIUM - Fortalecimiento"
+    },
+    {
+        "cod_cl1": "1205010716",
+        "NCcosto": "MCIV1(19-27). METRON"
+    },
+    {
+        "cod_cl1": "4130107001",
+        "NCcosto": "MCIV1.  Plan intervención condicio 2013"
+    },
+    {
+        "cod_cl1": "1205010717",
+        "NCcosto": "MCIV2(19-27). GERERE"
+    },
+    {
+        "cod_cl1": "1205010700",
+        "NCcosto": "MDCCV1. Acción aplicar lineamiemientos"
+    },
+    {
+        "cod_cl1": "1205010702",
+        "NCcosto": "MDCCV3. Diseño e implementación para la"
+    },
+    {
+        "cod_cl1": "1205010703",
+        "NCcosto": "MDCCV4. Establecer e implementar un plan"
+    },
+    {
+        "cod_cl1": "1205010704",
+        "NCcosto": "MDCCV5. Nuevos proyectos de investigació"
+    },
+    {
+        "cod_cl1": "1205010705",
+        "NCcosto": "MDCCV6. Revisar y actualizar los conteni"
+    },
+    {
+        "cod_cl1": "4130606002",
+        "NCcosto": "MECO1 Difusió ampliac_recurs_biblio2013C"
+    },
+    {
+        "cod_cl1": "4130603001",
+        "NCcosto": "MECO2. Estudio de Mercado promoc 2013C"
+    },
+    {
+        "cod_cl1": "4130603002",
+        "NCcosto": "MECO3. Formaliza y realiza encuentr2013"
+    },
+    {
+        "cod_cl1": "4130603003",
+        "NCcosto": "MECO4. Fortalecer la interacción 2013C"
+    },
+    {
+        "cod_cl1": "4130606001",
+        "NCcosto": "MECO5. Fortalecimiento informática2013C"
+    },
+    {
+        "cod_cl1": "4130602001",
+        "NCcosto": "MECO6.Fortalecimien_ investigació_PA2014"
+    },
+    {
+        "cod_cl1": "4130604001",
+        "NCcosto": "MECO7. Reforzar la socialización 2013C"
+    },
+    {
+        "cod_cl1": "1210010702",
+        "NCcosto": "MEING_A1 Gener espac_reflex mejoram2014"
+    },
+    {
+        "cod_cl1": "1210010700",
+        "NCcosto": "MEING1.Creación espaci_reflex_gradua2014"
+    },
+    {
+        "cod_cl1": "1210010701",
+        "NCcosto": "MEING2. Prom_Divulg_inter programa 2014"
+    },
+    {
+        "cod_cl1": "1209010705",
+        "NCcosto": "MELTRO1(19-22). Competencias Profesores"
+    },
+    {
+        "cod_cl1": "4130506002",
+        "NCcosto": "MELTRO1. Adquisición de recursos bibliog"
+    },
+    {
+        "cod_cl1": "1209010706",
+        "NCcosto": "MELTRO2(19-22). Posicionamiento Programa"
+    },
+    {
+        "cod_cl1": "4130506001",
+        "NCcosto": "MELTRO2. Adquisición de software de simu"
+    },
+    {
+        "cod_cl1": "4130507002",
+        "NCcosto": "MELTRO3. Dotación en maquinaria y equipo"
+    },
+    {
+        "cod_cl1": "4130502001",
+        "NCcosto": "MELTRO4. Creación de Semilleros del prog"
+    },
+    {
+        "cod_cl1": "1205010713",
+        "NCcosto": "MEST.A_1: Adecuac_sala_cómput_lab2014"
+    },
+    {
+        "cod_cl1": "1205010714",
+        "NCcosto": "MEST.A_2: Compra software_equipo lab2014"
+    },
+    {
+        "cod_cl1": "1205010715",
+        "NCcosto": "MEST.A_3: Compra recurso Bibliográfi2014"
+    },
+    {
+        "cod_cl1": "1205010706",
+        "NCcosto": "MEST2 -Fortal_relacion_nal-inter2014"
+    },
+    {
+        "cod_cl1": "1205010712",
+        "NCcosto": "MEST3 - Fortal_relación graduados2014"
+    },
+    {
+        "cod_cl1": "1205010708",
+        "NCcosto": "MFUND1. Consolid_mecanism_proc_eva 2014"
+    },
+    {
+        "cod_cl1": "1205010711",
+        "NCcosto": "MFUND2.  Mejorami_Lab suelos 2014"
+    },
+    {
+        "cod_cl1": "1216010700",
+        "NCcosto": "MGDIP3.Fortalec_relac_coop:nal-inter2014"
+    },
+    {
+        "cod_cl1": "1216010701",
+        "NCcosto": "MGDIP5.Fortal_particip_prof_estu2014"
+    },
+    {
+        "cod_cl1": "1208010701",
+        "NCcosto": "MGPI1: Mejorar_relación_Progr_entro2014"
+    },
+    {
+        "cod_cl1": "1208010705",
+        "NCcosto": "MINDUS 1. Fortalecimiento Investigacion"
+    },
+    {
+        "cod_cl1": "1208010711",
+        "NCcosto": "MINDUS 2( 21-25)Estrategias de acompañam"
+    },
+    {
+        "cod_cl1": "1208010706",
+        "NCcosto": "MINDUS 2. Fortalecimiento currículo"
+    },
+    {
+        "cod_cl1": "1208010712",
+        "NCcosto": "MINDUS 3( 21-25).Comunicación y apropiac"
+    },
+    {
+        "cod_cl1": "1208010707",
+        "NCcosto": "MINDUS 3. Planeación estratégica decanat"
+    },
+    {
+        "cod_cl1": "1208010708",
+        "NCcosto": "MINDUS 4. Estrategias retención Estudian"
+    },
+    {
+        "cod_cl1": "1208010709",
+        "NCcosto": "MINDUS_ANEXO1_Mejoramiento Lab_Ergonomía"
+    },
+    {
+        "cod_cl1": "1208010710",
+        "NCcosto": "MINDUS1( 21-25)Estrategias de enseñanza"
+    },
+    {
+        "cod_cl1": "1000000705",
+        "NCcosto": "MINST 1. Divulg_apropiación sistem 2014"
+    },
+    {
+        "cod_cl1": "1000000706",
+        "NCcosto": "MINST3. Revisi_ajust_ polít REL_ENT 2014"
+    },
+    {
+        "cod_cl1": "1000000707",
+        "NCcosto": "MINST4.Foment_particip_prog.B_U 2014"
+    },
+    {
+        "cod_cl1": "1000000708",
+        "NCcosto": "MINST5. Estudio Cllim_Instituc 2014"
+    },
+    {
+        "cod_cl1": "1000000709",
+        "NCcosto": "MINST6.Anális_factibil_movim_catePR2014"
+    },
+    {
+        "cod_cl1": "1000000711",
+        "NCcosto": "MINST7_Consolidación Gestión ADMON06"
+    },
+    {
+        "cod_cl1": "4130307001",
+        "NCcosto": "MISIS4. Innovacion recursos académicos"
+    },
+    {
+        "cod_cl1": "1211010710",
+        "NCcosto": "MMADMON 1 (21-26). Modernización de herr"
+    },
+    {
+        "cod_cl1": "1211010711",
+        "NCcosto": "MMADMON 2 (21-26) Fortalecimiento y Dina"
+    },
+    {
+        "cod_cl1": "1211010712",
+        "NCcosto": "MMADMON 3 (21-26) Consolidación de las r"
+    },
+    {
+        "cod_cl1": "1211010713",
+        "NCcosto": "MMADMON 4 (21-26) Fortalecimiento de las"
+    },
+    {
+        "cod_cl1": "1211010706",
+        "NCcosto": "MMADMON2. programa interacion redes"
+    },
+    {
+        "cod_cl1": "1211010707",
+        "NCcosto": "MMADMON3. Fortalecimiento Investigacion"
+    },
+    {
+        "cod_cl1": "1211010708",
+        "NCcosto": "MMADMON4. Elaborac_puesta program promoc"
+    },
+    {
+        "cod_cl1": "1211010709",
+        "NCcosto": "MMADMON5. Definición y formal procesos"
+    },
+    {
+        "cod_cl1": "1208070704",
+        "NCcosto": "MMAEST.IND1(19-21). Inter_Prog"
+    },
+    {
+        "cod_cl1": "1208070700",
+        "NCcosto": "MMAEST_INDUS1. Actualiz_PRY_formacion pr"
+    },
+    {
+        "cod_cl1": "1208070701",
+        "NCcosto": "MMAEST_INDUS2. Plan Padrino Investigacio"
+    },
+    {
+        "cod_cl1": "1208070702",
+        "NCcosto": "MMAEST_INDUS3. Mejoram_organizac y recur"
+    },
+    {
+        "cod_cl1": "1208070703",
+        "NCcosto": "MMAEST_INDUS4. Diseño plan comunicacione"
+    },
+    {
+        "cod_cl1": "1216030700",
+        "NCcosto": "MMAESTDGIP1. Reestructura Unidad Proy"
+    },
+    {
+        "cod_cl1": "1216030701",
+        "NCcosto": "MMAESTDGIP2. Renovacion curricular progr"
+    },
+    {
+        "cod_cl1": "1216030702",
+        "NCcosto": "MMAESTDGIP3. Creación micrositio desarro"
+    },
+    {
+        "cod_cl1": "1216030703",
+        "NCcosto": "MMAESTDGIPA1. Implem_esquem_monit_gradua"
+    },
+    {
+        "cod_cl1": "1216030704",
+        "NCcosto": "MMAESTDGIPA5. Particip_prof_estud_nac-in"
+    },
+    {
+        "cod_cl1": "1216030705",
+        "NCcosto": "MMAESTDGIPA6. Evento Difusión Investigac"
+    },
+    {
+        "cod_cl1": "1209050701",
+        "NCcosto": "MMAESTELECTR_A Divulgac_politic_proceso"
+    },
+    {
+        "cod_cl1": "1209050700",
+        "NCcosto": "MMAESTELECTR_PR1 Fortalecimiento I+D+i"
+    },
+    {
+        "cod_cl1": "1212010700",
+        "NCcosto": "MMATE1_Estructuracion investigacion en"
+    },
+    {
+        "cod_cl1": "1212010701",
+        "NCcosto": "MMATE2_Caract_habilidades_competenc_estu"
+    },
+    {
+        "cod_cl1": "1212010702",
+        "NCcosto": "MMATE3_Planeac_centro_estudi_matemática"
+    },
+    {
+        "cod_cl1": "1212010703",
+        "NCcosto": "MMATE4_Promoción del Programa Matemática"
+    },
+    {
+        "cod_cl1": "1212010704",
+        "NCcosto": "MMATE5_Formación de excelencia con alta"
+    },
+    {
+        "cod_cl1": "1212010705",
+        "NCcosto": "MMATE6_Fortalecer la relación del progra"
+    },
+    {
+        "cod_cl1": "1212010706",
+        "NCcosto": "MMATE7_Fortalecimiento de la investigaci"
+    },
+    {
+        "cod_cl1": "1212010707",
+        "NCcosto": "MMATE8_Propuesta para la creación de una"
+    },
+    {
+        "cod_cl1": "1205020700",
+        "NCcosto": "MMCIV 1. Actualización Curricular"
+    },
+    {
+        "cod_cl1": "1205020701",
+        "NCcosto": "MMCIV 2. Divulg  prod_académ_fortal_rela"
+    },
+    {
+        "cod_cl1": "1205020702",
+        "NCcosto": "MMCIV 3. Fortalec_recursos_apoyo"
+    },
+    {
+        "cod_cl1": "1205020703",
+        "NCcosto": "MMCIV 4. Seguim_aplicac_Reglam_Estud"
+    },
+    {
+        "cod_cl1": "1205020704",
+        "NCcosto": "MMCIV 5. Fortalecimiento planta_profeso"
+    },
+    {
+        "cod_cl1": "1205020705",
+        "NCcosto": "MMCIV 6. Seguimiento a Graduados"
+    },
+    {
+        "cod_cl1": "1205020706",
+        "NCcosto": "MMCIV 7. Fortal_participac_act_del progr"
+    },
+    {
+        "cod_cl1": "1213010700",
+        "NCcosto": "MMECAN 2. Consolidación invest_relac_ext"
+    },
+    {
+        "cod_cl1": "1213010701",
+        "NCcosto": "MMECAN 3: Actualización Laboratorios"
+    },
+    {
+        "cod_cl1": "1213010702",
+        "NCcosto": "MMECAN_A1: Divulgación aspectos  rele"
+    },
+    {
+        "cod_cl1": "1213010703",
+        "NCcosto": "MMECAN1(19-23). Conexión"
+    },
+    {
+        "cod_cl1": "1213010704",
+        "NCcosto": "MMECAN2(19-23). Eco"
+    },
+    {
+        "cod_cl1": "1213010705",
+        "NCcosto": "MMECAN3(19-23). Sinergia"
+    },
+    {
+        "cod_cl1": "1213010706",
+        "NCcosto": "MMECAN4(19-23). Triunfo Compartido"
+    },
+    {
+        "cod_cl1": "1210010708",
+        "NCcosto": "MMECO ACC3 Evaluacion profesores fortale"
+    },
+    {
+        "cod_cl1": "1210010706",
+        "NCcosto": "MMECO_ACC1 Divulgac_instit_y_programa"
+    },
+    {
+        "cod_cl1": "1210010707",
+        "NCcosto": "MMECO_ACC2 Fortalecimiento Mercado Labor"
+    },
+    {
+        "cod_cl1": "1210010703",
+        "NCcosto": "MMECO_PR1 Incremen_poblac_estudiantil"
+    },
+    {
+        "cod_cl1": "1210010704",
+        "NCcosto": "MMECO_PR2 Divulgación de la investi"
+    },
+    {
+        "cod_cl1": "1210010705",
+        "NCcosto": "MMECO_PR3 Fortalecimien_proceso_enseñanz"
+    },
+    {
+        "cod_cl1": "1210010709",
+        "NCcosto": "MMECO1(20-25)Incremento de la población"
+    },
+    {
+        "cod_cl1": "1210010711",
+        "NCcosto": "MMECO3 (20-25) Fortalecimiento de los"
+    },
+    {
+        "cod_cl1": "1210010712",
+        "NCcosto": "MMECO4 (20-25) Relación con graduados"
+    },
+    {
+        "cod_cl1": "1206010701",
+        "NCcosto": "MMELEC_A2. Optimz_recurs_renov equi_2014"
+    },
+    {
+        "cod_cl1": "1206010700",
+        "NCcosto": "MMELEC1. 2Fortalecimien_metodol_enseña"
+    },
+    {
+        "cod_cl1": "1206010704",
+        "NCcosto": "MMELEC1. Plan estratégico del Programa"
+    },
+    {
+        "cod_cl1": "1206010707",
+        "NCcosto": "MMELEC1.(22-26) Fortalecimiento de la in"
+    },
+    {
+        "cod_cl1": "1206010705",
+        "NCcosto": "MMELEC2.  Fortalecimiento de la Investig"
+    },
+    {
+        "cod_cl1": "1206010702",
+        "NCcosto": "MMELEC2. 1Fortalecimiento de las funcion"
+    },
+    {
+        "cod_cl1": "1206010708",
+        "NCcosto": "MMELEC2.(22-26) Estrategia Digital 360 p"
+    },
+    {
+        "cod_cl1": "1206010706",
+        "NCcosto": "MMELEC3.  Plan de mejoramiento del Labor"
+    },
+    {
+        "cod_cl1": "1206010703",
+        "NCcosto": "MMELEC3. 3Fortalec_desarrollo de lineas"
+    },
+    {
+        "cod_cl1": "1206010709",
+        "NCcosto": "MMELEC3.(22-26) Formación por competenci"
+    },
+    {
+        "cod_cl1": "1209010704",
+        "NCcosto": "MMELTRO.A1. Divulg_socializac aspectos"
+    },
+    {
+        "cod_cl1": "1209010700",
+        "NCcosto": "MMELTRO1. M/to y mejoramiento laboratori"
+    },
+    {
+        "cod_cl1": "1209010701",
+        "NCcosto": "MMELTRO2.Fortalecimiento  de la Internac"
+    },
+    {
+        "cod_cl1": "1209010702",
+        "NCcosto": "MMELTRO3. Fortalecimiento de la docencia"
+    },
+    {
+        "cod_cl1": "1209010703",
+        "NCcosto": "MMELTRO4. Fortalec_extensión e investiga"
+    },
+    {
+        "cod_cl1": "1207070701",
+        "NCcosto": "MMGESTINFOR Def Estrategias comunicacion"
+    },
+    {
+        "cod_cl1": "1207070700",
+        "NCcosto": "MMGESTINFOR Def_Proyecto Formacion proce"
+    },
+    {
+        "cod_cl1": "1207010700",
+        "NCcosto": "MMSIS1. Evaluación y reconocimiento labo"
+    },
+    {
+        "cod_cl1": "1207010701",
+        "NCcosto": "MMSIS2. Redes Académicas"
+    },
+    {
+        "cod_cl1": "1207010702",
+        "NCcosto": "MMSIS3. Fomento creatividad y la innovac"
+    },
+    {
+        "cod_cl1": "1207010703",
+        "NCcosto": "MMSIS4. Apropiacióninformación instituci"
+    },
+    {
+        "cod_cl1": "1207010704",
+        "NCcosto": "MMSIS5. Seminario de inserción al mundo"
+    },
+    {
+        "cod_cl1": "1207010705",
+        "NCcosto": "MMSIS6.A2. Desarrollo Habilidades blanda"
+    },
+    {
+        "cod_cl1": "1207010706",
+        "NCcosto": "MMSIS7. Laboratorio l4 ISIS"
+    },
+    {
+        "cod_cl1": "1608030008",
+        "NCcosto": "Modelos logísticos y Power BI"
+    },
+    {
+        "cod_cl1": "4220506001",
+        "NCcosto": "MODULOS ERP EN FUNCIONAMIENTO ECI"
+    },
+    {
+        "cod_cl1": "1703000700",
+        "NCcosto": "MPOSG P1 Renovación curricular"
+    },
+    {
+        "cod_cl1": "1703000701",
+        "NCcosto": "MPOSG P2 Plan estra grupo investigación"
+    },
+    {
+        "cod_cl1": "1703000702",
+        "NCcosto": "MPOSG P3 Modelo relacion con graduados"
+    },
+    {
+        "cod_cl1": "1703000703",
+        "NCcosto": "MPOSG P4 Estud capacidad instit posgrado"
+    },
+    {
+        "cod_cl1": "1703000704",
+        "NCcosto": "MPOSG P5 Reglamento Estudiantil"
+    },
+    {
+        "cod_cl1": "1703000705",
+        "NCcosto": "MPOSG P6 Esquema de comunicaciones Insti"
+    },
+    {
+        "cod_cl1": "1703000706",
+        "NCcosto": "MPOSG P7 Sistema administ profesores"
+    },
+    {
+        "cod_cl1": "1208010704",
+        "NCcosto": "MQHSE.AcciónInform_Bien_Univerequeri2014"
+    },
+    {
+        "cod_cl1": "1208010700",
+        "NCcosto": "MQHSE1. Actualiz_estud_tenden vinc2014"
+    },
+    {
+        "cod_cl1": "1208010702",
+        "NCcosto": "MQHSE2. Diagnóst_proces_admi2014"
+    },
+    {
+        "cod_cl1": "1208010703",
+        "NCcosto": "MQHSE3. Fortalecim_relac_entorno2014"
+    },
+    {
+        "cod_cl1": "1205010709",
+        "NCcosto": "MRHMA1. Fortalecim_prácticas_visitas2014"
+    },
+    {
+        "cod_cl1": "1205010710",
+        "NCcosto": "MRHMA2. Fortalec_relacione nal-inter2014"
+    },
+    {
+        "cod_cl1": "1205010707",
+        "NCcosto": "MSAMB2.Particip_profes_proces_progr2014"
+    },
+    {
+        "cod_cl1": "1207010707",
+        "NCcosto": "MSIS1(19-21). Entorno 2.0"
+    },
+    {
+        "cod_cl1": "4130306001",
+        "NCcosto": "MSIS1.  Consolidación del Sistema Comuni"
+    },
+    {
+        "cod_cl1": "1207010708",
+        "NCcosto": "MSIS2(19-21). Gestión Académica"
+    },
+    {
+        "cod_cl1": "1207010709",
+        "NCcosto": "MSIS3(19-21). Plan 14 digital"
+    },
+    {
+        "cod_cl1": "4130302001",
+        "NCcosto": "MSIS3.  Fomento al trabajo interdiscipli"
+    },
+    {
+        "cod_cl1": "1901080500",
+        "NCcosto": "NC_ Diseños, estudios técnicos y licenci"
+    },
+    {
+        "cod_cl1": "1901080600",
+        "NCcosto": "NC_ Energía solar Fotovoltáica"
+    },
+    {
+        "cod_cl1": "1901080700",
+        "NCcosto": "NC_ Obras de urbanismo \"Via de Servicio\""
+    },
+    {
+        "cod_cl1": "1901090000",
+        "NCcosto": "NC_ACTIVIDADES PARA EL CIERRE DEL DEL PR"
+    },
+    {
+        "cod_cl1": "1901070100",
+        "NCcosto": "NC_Administración delegada obra."
+    },
+    {
+        "cod_cl1": "1901030700",
+        "NCcosto": "NC_Aseo y Limpieza."
+    },
+    {
+        "cod_cl1": "1901040400",
+        "NCcosto": "NC_Automatización (Ducteria)."
+    },
+    {
+        "cod_cl1": "1901030300",
+        "NCcosto": "NC_Bases y pisos"
+    },
+    {
+        "cod_cl1": "1904010024",
+        "NCcosto": "NC_C_ADMINISTRACION DELEGADA OBRA"
+    },
+    {
+        "cod_cl1": "1904010021",
+        "NCcosto": "NC_C_ALQUILER Y COMPRA DE EQUIPOS"
+    },
+    {
+        "cod_cl1": "1904010022",
+        "NCcosto": "NC_C_ASEO - SEÑALIZACION"
+    },
+    {
+        "cod_cl1": "1904010011",
+        "NCcosto": "NC_C_BASES Y PISOS"
+    },
+    {
+        "cod_cl1": "1904010016",
+        "NCcosto": "NC_C_CARPINTERIA DE MADERA"
+    },
+    {
+        "cod_cl1": "1904010015",
+        "NCcosto": "NC_C_CARPINTERIA METALICA"
+    },
+    {
+        "cod_cl1": "1904010019",
+        "NCcosto": "NC_C_CERRADURAS Y HERRAJES"
+    },
+    {
+        "cod_cl1": "1904010013",
+        "NCcosto": "NC_C_CIELO RASOS E ILUMINACIONES"
+    },
+    {
+        "cod_cl1": "1904010002",
+        "NCcosto": "NC_C_CIMENTACION"
+    },
+    {
+        "cod_cl1": "1904010023",
+        "NCcosto": "NC_C_COSTOS INDIRECTOS"
+    },
+    {
+        "cod_cl1": "1904010008",
+        "NCcosto": "NC_C_CUBIERTA"
+    },
+    {
+        "cod_cl1": "1904020000",
+        "NCcosto": "NC_C_DOTACION"
+    },
+    {
+        "cod_cl1": "1904010017",
+        "NCcosto": "NC_C_DOTACION BAÑOS Y GRIFERIA"
+    },
+    {
+        "cod_cl1": "1904010010",
+        "NCcosto": "NC_C_ENCHAPES"
+    },
+    {
+        "cod_cl1": "1904010018",
+        "NCcosto": "NC_C_EQUIPOS ESPECIALES"
+    },
+    {
+        "cod_cl1": "1904010003",
+        "NCcosto": "NC_C_ESTRUCTURA"
+    },
+    {
+        "cod_cl1": "1904010006",
+        "NCcosto": "NC_C_EXTRACCION MECANICA"
+    },
+    {
+        "cod_cl1": "1904010028",
+        "NCcosto": "NC_C_GASTOS GENERALES"
+    },
+    {
+        "cod_cl1": "1904010025",
+        "NCcosto": "NC_C_HONORARIOS PROFESIONALES Y SUPERVIS"
+    },
+    {
+        "cod_cl1": "1904010012",
+        "NCcosto": "NC_C_IMPERMEABILIZACIONES"
+    },
+    {
+        "cod_cl1": "1904010027",
+        "NCcosto": "NC_C_IMPREVISTOS BIOSEGURIDAD CAFETERIA"
+    },
+    {
+        "cod_cl1": "1904010005",
+        "NCcosto": "NC_C_INSTALACIONES ELECTRICAS + DECK"
+    },
+    {
+        "cod_cl1": "1904010004",
+        "NCcosto": "NC_C_INSTALACIONES HIDROSANITARIAS"
+    },
+    {
+        "cod_cl1": "1904010007",
+        "NCcosto": "NC_C_MAMPOSTERIA"
+    },
+    {
+        "cod_cl1": "1904010009",
+        "NCcosto": "NC_C_PAÑETES"
+    },
+    {
+        "cod_cl1": "1904010020",
+        "NCcosto": "NC_C_PINTURA"
+    },
+    {
+        "cod_cl1": "1904010026",
+        "NCcosto": "NC_C_POLIZAS Y PERMISOS"
+    },
+    {
+        "cod_cl1": "1904010000",
+        "NCcosto": "NC_C_PRE-OPERATIVOS"
+    },
+    {
+        "cod_cl1": "1904010001",
+        "NCcosto": "NC_C_TRABAJOS PRELIMINARES"
+    },
+    {
+        "cod_cl1": "1904010029",
+        "NCcosto": "NC_C_URBANISMO"
+    },
+    {
+        "cod_cl1": "1904010014",
+        "NCcosto": "NC_C_VENTANERIA ALUMINIO VIDRIO"
+    },
+    {
+        "cod_cl1": "1901050100",
+        "NCcosto": "NC_Carpintería en aluminio y vidrio arqu"
+    },
+    {
+        "cod_cl1": "1901050300",
+        "NCcosto": "NC_Carpintería Madera."
+    },
+    {
+        "cod_cl1": "1901050200",
+        "NCcosto": "NC_Carpintería Metálica."
+    },
+    {
+        "cod_cl1": "1907010000",
+        "NCcosto": "NC_CENTRO DE REFLEXION"
+    },
+    {
+        "cod_cl1": "1901030100",
+        "NCcosto": "NC_Cielorrasos"
+    },
+    {
+        "cod_cl1": "1901010300",
+        "NCcosto": "NC_Cimentación y estruct_ (placa contrap"
+    },
+    {
+        "cod_cl1": "1901020200",
+        "NCcosto": "NC_Cubiertas."
+    },
+    {
+        "cod_cl1": "1901030400",
+        "NCcosto": "NC_Dotación baños y grifería"
+    },
+    {
+        "cod_cl1": "1902000001",
+        "NCcosto": "NC_DOTACION MURO DE REACCION"
+    },
+    {
+        "cod_cl1": "1903010029",
+        "NCcosto": "NC_E_  HONORARIOS PROFESIONALES Y SUPERV"
+    },
+    {
+        "cod_cl1": "1903010032",
+        "NCcosto": "NC_E_ADMINISTRACION DELEGADA OBRA"
+    },
+    {
+        "cod_cl1": "1903010026",
+        "NCcosto": "NC_E_ALQUILER Y COMPRA DE EQUIPOS DE OBR"
+    },
+    {
+        "cod_cl1": "1903010028",
+        "NCcosto": "NC_E_ASEO / SENALIZACION / JARDINES"
+    },
+    {
+        "cod_cl1": "1903010011",
+        "NCcosto": "NC_E_BASES Y PISOS"
+    },
+    {
+        "cod_cl1": "1903010017",
+        "NCcosto": "NC_E_CARPINTERIA DE MADERA"
+    },
+    {
+        "cod_cl1": "1903010016",
+        "NCcosto": "NC_E_CARPINTERIA METALICA"
+    },
+    {
+        "cod_cl1": "1903010023",
+        "NCcosto": "NC_E_CERRADURAS"
+    },
+    {
+        "cod_cl1": "1903010013",
+        "NCcosto": "NC_E_CIELORRASOS"
+    },
+    {
+        "cod_cl1": "1903010002",
+        "NCcosto": "NC_E_CIMENTACION"
+    },
+    {
+        "cod_cl1": "1903010030",
+        "NCcosto": "NC_E_CONEXIÓN SERVICIOS"
+    },
+    {
+        "cod_cl1": "1903010008",
+        "NCcosto": "NC_E_CUBIERTA"
+    },
+    {
+        "cod_cl1": "1903020001",
+        "NCcosto": "NC_E_Dotació Implementacion de red de vo"
+    },
+    {
+        "cod_cl1": "1903020000",
+        "NCcosto": "NC_E_DOTACIÓN"
+    },
+    {
+        "cod_cl1": "1903010018",
+        "NCcosto": "NC_E_DOTACION BAÑOS Y GRIFERIA"
+    },
+    {
+        "cod_cl1": "1903010010",
+        "NCcosto": "NC_E_ENCHAPES"
+    },
+    {
+        "cod_cl1": "1903010034",
+        "NCcosto": "NC_E_EQUIPOS ESPECIALES"
+    },
+    {
+        "cod_cl1": "1903010020",
+        "NCcosto": "NC_E_EQUIPOS HIDRONEUMATICOS"
+    },
+    {
+        "cod_cl1": "1903010003",
+        "NCcosto": "NC_E_ESTRUCTURA"
+    },
+    {
+        "cod_cl1": "1903010027",
+        "NCcosto": "NC_E_GASTOS GENERALES Y SEGURIDAD INDUST"
+    },
+    {
+        "cod_cl1": "1903010014",
+        "NCcosto": "NC_E_ILUMINACION"
+    },
+    {
+        "cod_cl1": "1903010012",
+        "NCcosto": "NC_E_IMPERMEABILIZACIONES"
+    },
+    {
+        "cod_cl1": "1903010033",
+        "NCcosto": "NC_E_IMPREVISTOS BIOSEGURIDAD EDIFICIO E"
+    },
+    {
+        "cod_cl1": "1903010005",
+        "NCcosto": "NC_E_INSTALACIONES ELECTRICAS Y DE CABLE"
+    },
+    {
+        "cod_cl1": "1903010004",
+        "NCcosto": "NC_E_INSTALACIONES HIDROSANITARIAS Y RED"
+    },
+    {
+        "cod_cl1": "1903010007",
+        "NCcosto": "NC_E_MAMPOSTERIA"
+    },
+    {
+        "cod_cl1": "1903010022",
+        "NCcosto": "NC_E_PANELES SOLARES"
+    },
+    {
+        "cod_cl1": "1903010009",
+        "NCcosto": "NC_E_PAÑETES"
+    },
+    {
+        "cod_cl1": "1903010001",
+        "NCcosto": "NC_E_PILOTAJE"
+    },
+    {
+        "cod_cl1": "1903010025",
+        "NCcosto": "NC_E_PINTURA"
+    },
+    {
+        "cod_cl1": "1903010031",
+        "NCcosto": "NC_E_POLIZAS Y PERMISOS"
+    },
+    {
+        "cod_cl1": "1903010021",
+        "NCcosto": "NC_E_SEGURIDAD Y CONTROL"
+    },
+    {
+        "cod_cl1": "1903010000",
+        "NCcosto": "NC_E_TRABAJOS PRELIMINARES"
+    },
+    {
+        "cod_cl1": "1903010019",
+        "NCcosto": "NC_E_TRANSPORTE VERTICAL"
+    },
+    {
+        "cod_cl1": "1903010035",
+        "NCcosto": "NC_E_URBANISMO"
+    },
+    {
+        "cod_cl1": "1903010015",
+        "NCcosto": "NC_E_VENTANERIA ALUMINIO VIDRIO"
+    },
+    {
+        "cod_cl1": "1903010006",
+        "NCcosto": "NC_E_VENTILACÍON MECÁNICA"
+    },
+    {
+        "cod_cl1": "1903010024",
+        "NCcosto": "NC_E_VIDRIOS Y ESPEJOS"
+    },
+    {
+        "cod_cl1": "1901030200",
+        "NCcosto": "NC_Enchapes"
+    },
+    {
+        "cod_cl1": "1901060100",
+        "NCcosto": "NC_Equipos."
+    },
+    {
+        "cod_cl1": "1901030600",
+        "NCcosto": "NC_Exteriores."
+    },
+    {
+        "cod_cl1": "1901040500",
+        "NCcosto": "NC_Iluminaciones (Luminarias)."
+    },
+    {
+        "cod_cl1": "1901020300",
+        "NCcosto": "NC_Impermeabilizaciones"
+    },
+    {
+        "cod_cl1": "1901070400",
+        "NCcosto": "NC_Imprevistos presupuestales."
+    },
+    {
+        "cod_cl1": "1901040100",
+        "NCcosto": "NC_Instalac_ hidrosanitarias-red incendi"
+    },
+    {
+        "cod_cl1": "1901040200",
+        "NCcosto": "NC_Instalaciones eléctricas."
+    },
+    {
+        "cod_cl1": "1906010023",
+        "NCcosto": "NC_L1_ADMINISTRACION DELEGADA OBRA"
+    },
+    {
+        "cod_cl1": "1906010017",
+        "NCcosto": "NC_L1_ASEO"
+    },
+    {
+        "cod_cl1": "1906010012",
+        "NCcosto": "NC_L1_CARPINTERIA EN MADERA"
+    },
+    {
+        "cod_cl1": "1906010010",
+        "NCcosto": "NC_L1_CIELORRASOS"
+    },
+    {
+        "cod_cl1": "1906010001",
+        "NCcosto": "NC_L1_CIMENTACION"
+    },
+    {
+        "cod_cl1": "1906010018",
+        "NCcosto": "NC_L1_COSTO INDIRECTO"
+    },
+    {
+        "cod_cl1": "1906010006",
+        "NCcosto": "NC_L1_CUBIERTA"
+    },
+    {
+        "cod_cl1": "1906010014",
+        "NCcosto": "NC_L1_DOTACION DE BAÑOS Y GRIFERIA (PARA"
+    },
+    {
+        "cod_cl1": "1906010007",
+        "NCcosto": "NC_L1_ENCHAPES Y MESONES"
+    },
+    {
+        "cod_cl1": "1906010015",
+        "NCcosto": "NC_L1_EQUIPOS ESPECIALES Y AUTOMATIZACIO"
+    },
+    {
+        "cod_cl1": "1906010002",
+        "NCcosto": "NC_L1_ESTRUCTURA METALICA"
+    },
+    {
+        "cod_cl1": "1906010022",
+        "NCcosto": "NC_L1_GASTOS GENERALES"
+    },
+    {
+        "cod_cl1": "1906010009",
+        "NCcosto": "NC_L1_IMPERMEABILIZACIONES"
+    },
+    {
+        "cod_cl1": "1906010021",
+        "NCcosto": "NC_L1_IMPREVISTOS BIOSEGURIDAD EDIFICIO"
+    },
+    {
+        "cod_cl1": "1906010004",
+        "NCcosto": "NC_L1_INSTALACIONES ELÉCTRICAS (CON SUBE"
+    },
+    {
+        "cod_cl1": "1906010003",
+        "NCcosto": "NC_L1_INSTALACIONES HIDROSANITARIAS Y RE"
+    },
+    {
+        "cod_cl1": "1906010005",
+        "NCcosto": "NC_L1_MAMPOSTERIA"
+    },
+    {
+        "cod_cl1": "1906010020",
+        "NCcosto": "NC_L1_MOBILIARIO OCUPACIONAL"
+    },
+    {
+        "cod_cl1": "1906010016",
+        "NCcosto": "NC_L1_PINTURA"
+    },
+    {
+        "cod_cl1": "1906010008",
+        "NCcosto": "NC_L1_PISOS"
+    },
+    {
+        "cod_cl1": "1906010013",
+        "NCcosto": "NC_L1_PUERTAS EN ALUMINIO Y VIDRIO"
+    },
+    {
+        "cod_cl1": "1906010000",
+        "NCcosto": "NC_L1_TRABAJOS PRELIMINARES"
+    },
+    {
+        "cod_cl1": "1906010024",
+        "NCcosto": "NC_L1_URBANISMO"
+    },
+    {
+        "cod_cl1": "1906010011",
+        "NCcosto": "NC_L1_VENTANERIA ALUMINIO VIDRIO"
+    },
+    {
+        "cod_cl1": "1901020100",
+        "NCcosto": "NC_Mampostería y pañetes"
+    },
+    {
+        "cod_cl1": "1901010200",
+        "NCcosto": "NC_Muro de reacción y piso fuerte"
+    },
+    {
+        "cod_cl1": "1901080100",
+        "NCcosto": "NC_Obra Civil para dotación"
+    },
+    {
+        "cod_cl1": "1901010100",
+        "NCcosto": "NC_Pilotes preexcavados"
+    },
+    {
+        "cod_cl1": "1901030500",
+        "NCcosto": "NC_Pinturas"
+    },
+    {
+        "cod_cl1": "1901010400",
+        "NCcosto": "NC_Piso Industrial"
+    },
+    {
+        "cod_cl1": "1901070200",
+        "NCcosto": "NC_Preliminares."
+    },
+    {
+        "cod_cl1": "1901040300",
+        "NCcosto": "NC_Seguridad y control (Ducteria)."
+    },
+    {
+        "cod_cl1": "1901070300",
+        "NCcosto": "NC_Señalización Urbana."
+    },
+    {
+        "cod_cl1": "1901060200",
+        "NCcosto": "NC_Señalización."
+    },
+    {
+        "cod_cl1": "1901080200",
+        "NCcosto": "NC_Sistema extracción, control humedad y"
+    },
+    {
+        "cod_cl1": "1901080400",
+        "NCcosto": "NC_Sistema supervisión equipos (Automati"
+    },
+    {
+        "cod_cl1": "1901080300",
+        "NCcosto": "NC_Sistemas de gases especiales"
+    },
+    {
+        "cod_cl1": "1112000001",
+        "NCcosto": "Obra Construc terrazas Coliseo Otoño"
+    },
+    {
+        "cod_cl1": "1106010000",
+        "NCcosto": "Oficina Bienestar Universitario"
+    },
+    {
+        "cod_cl1": "1401000000",
+        "NCcosto": "Oficina de Desarrollo Institucional"
+    },
+    {
+        "cod_cl1": "1216040000",
+        "NCcosto": "Oficina de Proyectos PMO"
+    },
+    {
+        "cod_cl1": "1001000000",
+        "NCcosto": "Oficina Gestión de Fondos"
+    },
+    {
+        "cod_cl1": "1113000000",
+        "NCcosto": "Oficina Gestión de Infraestructura"
+    },
+    {
+        "cod_cl1": "1108000000",
+        "NCcosto": "Oficina Jurídica"
+    },
+    {
+        "cod_cl1": "1102000019",
+        "NCcosto": "OP. Terraza cafetería empleados y estudi"
+    },
+    {
+        "cod_cl1": "1701000200",
+        "NCcosto": "OPEN DAY"
+    },
+    {
+        "cod_cl1": "1205000816",
+        "NCcosto": "OS DRUMMOND CMLTD–0100275305/2017"
+    },
+    {
+        "cod_cl1": "1205000817",
+        "NCcosto": "OS DRUMMOND CMLTD–0100283026/2017"
+    },
+    {
+        "cod_cl1": "1217015011",
+        "NCcosto": "Pilo Paga Convenio Biomedica"
+    },
+    {
+        "cod_cl1": "1102000099",
+        "NCcosto": "Planta Física y Mantenimiento - Aprendic"
+    },
+    {
+        "cod_cl1": "1201000107",
+        "NCcosto": "PMI2. Bilingüismo"
+    },
+    {
+        "cod_cl1": "1215010001",
+        "NCcosto": "PMMII1. Creación del Centro de Liderazgo"
+    },
+    {
+        "cod_cl1": "1606010007",
+        "NCcosto": "Prácticas de laboratorio de Máquinas Elé"
+    },
+    {
+        "cod_cl1": "1000000704",
+        "NCcosto": "PRE_INST.-Prepara_visita_pares Acred2014"
+    },
+    {
+        "cod_cl1": "1616010021",
+        "NCcosto": "Preparación Certificación Scrum Master I"
+    },
+    {
+        "cod_cl1": "1616010006",
+        "NCcosto": "Preparación para el examen de certificac"
+    },
+    {
+        "cod_cl1": "1616010002",
+        "NCcosto": "Preparación para el examen de certificac"
+    },
+    {
+        "cod_cl1": "1616010005",
+        "NCcosto": "Preparación para el Examen de Certificac"
+    },
+    {
+        "cod_cl1": "1201000005",
+        "NCcosto": "Preuniversitario"
+    },
+    {
+        "cod_cl1": "1608010002",
+        "NCcosto": "Previsión de ventas basado en TIC"
+    },
+    {
+        "cod_cl1": "1600002001",
+        "NCcosto": "Programa de capacitacion Codensa"
+    },
+    {
+        "cod_cl1": "1607010018",
+        "NCcosto": "Programa de Capacitación Fundación Grupo"
+    },
+    {
+        "cod_cl1": "160002001",
+        "NCcosto": "Programa de capacitacion para Codensa"
+    },
+    {
+        "cod_cl1": "1604010003",
+        "NCcosto": "Programa de inmersión"
+    },
+    {
+        "cod_cl1": "1212011000",
+        "NCcosto": "Programa de Matemáticas (Prof)"
+    },
+    {
+        "cod_cl1": "1601040002",
+        "NCcosto": "Programa Jóvenes Ingenieros (Alemania)"
+    },
+    {
+        "cod_cl1": "1601040003",
+        "NCcosto": "Programa Jóvenes Ingenieros (Francia)"
+    },
+    {
+        "cod_cl1": "1106020000",
+        "NCcosto": "Programa Ser Pilo Paga"
+    },
+    {
+        "cod_cl1": "1601040004",
+        "NCcosto": "Programas ASCUN: MACA, BRACOL Y MEXCOL"
+    },
+    {
+        "cod_cl1": "1301010017",
+        "NCcosto": "Promoción Colegios"
+    },
+    {
+        "cod_cl1": "1205000806",
+        "NCcosto": "PROP. Consorcio PST 2014"
+    },
+    {
+        "cod_cl1": "1205000804",
+        "NCcosto": "PROP. DRUMMOND LTD 2014"
+    },
+    {
+        "cod_cl1": "1205000803",
+        "NCcosto": "Prop. EAAB Ing.basicsubcuenta 2014"
+    },
+    {
+        "cod_cl1": "1205000818",
+        "NCcosto": "PROP. IAC ENERGY campaña de medición cau"
+    },
+    {
+        "cod_cl1": "1205000805",
+        "NCcosto": "Prop. INGERTEC S.A. 2014"
+    },
+    {
+        "cod_cl1": "1205000809",
+        "NCcosto": "PROP14. DRUMMOND CMLTD-0100237758 realin"
+    },
+    {
+        "cod_cl1": "1205000810",
+        "NCcosto": "PROP14. DRUMMOND CMLTD-0100237760"
+    },
+    {
+        "cod_cl1": "1205000813",
+        "NCcosto": "PROP15. Consult Est Hidrau Zorro desviac"
+    },
+    {
+        "cod_cl1": "1205000811",
+        "NCcosto": "PROP15. EAAB 2-02-25596-009957 CONSULT"
+    },
+    {
+        "cod_cl1": "1205000815",
+        "NCcosto": "PROP15. IAC ENERGY ESP. Mod_físico Bocat"
+    },
+    {
+        "cod_cl1": "1205000812",
+        "NCcosto": "PROP15. IAC ENERGY SAS ESP"
+    },
+    {
+        "cod_cl1": "1608020001",
+        "NCcosto": "Protocolos de bioseguridad Covid-19, pre"
+    },
+    {
+        "cod_cl1": "1000000006",
+        "NCcosto": "Proy. planeación estrategica progr pregr"
+    },
+    {
+        "cod_cl1": "1801020000",
+        "NCcosto": "Proy_ investigación convocatorias intern"
+    },
+    {
+        "cod_cl1": "1213010002",
+        "NCcosto": "Proyecto Formula SAE"
+    },
+    {
+        "cod_cl1": "1205000822",
+        "NCcosto": "Proyecto HOCOL"
+    },
+    {
+        "cod_cl1": "1205000820",
+        "NCcosto": "Proyecto:  Evaluación morral estabilizad"
+    },
+    {
+        "cod_cl1": "1205000819",
+        "NCcosto": "proyecto: Actualización del sistema de a"
+    },
+    {
+        "cod_cl1": "1206010003",
+        "NCcosto": "Proyecto: Estudio de especificaciones té"
+    },
+    {
+        "cod_cl1": "1801050000",
+        "NCcosto": "Proyectos Programa"
+    },
+    {
+        "cod_cl1": "1801020058",
+        "NCcosto": "Pry 17. Holanda Multistor"
+    },
+    {
+        "cod_cl1": "1801020084",
+        "NCcosto": "Pry 18.  Viabilidad técnica de uso de co"
+    },
+    {
+        "cod_cl1": "1801020064",
+        "NCcosto": "PRY 18. Análisis de metodologías basadas"
+    },
+    {
+        "cod_cl1": "1801020061",
+        "NCcosto": "PRY 18. CAMPO EXPERIMENTAL PARA EL ESTUD"
+    },
+    {
+        "cod_cl1": "1801020063",
+        "NCcosto": "PRY 18. Caracterización de una Espuma As"
+    },
+    {
+        "cod_cl1": "1801020077",
+        "NCcosto": "PRY 18. Caracterización del comportamien"
+    },
+    {
+        "cod_cl1": "1801020062",
+        "NCcosto": "PRY 18. Cyber Security Architecture for"
+    },
+    {
+        "cod_cl1": "1801020075",
+        "NCcosto": "PRY 18. Desarrollo de directrices para l"
+    },
+    {
+        "cod_cl1": "1801020065",
+        "NCcosto": "PRY 18. Desarrollo de dispositivos y ser"
+    },
+    {
+        "cod_cl1": "1801020081",
+        "NCcosto": "PRY 18. Desarrollo de una plataforma rob"
+    },
+    {
+        "cod_cl1": "1801020069",
+        "NCcosto": "PRY 18. Diseño de un sistema de posicion"
+    },
+    {
+        "cod_cl1": "1801020072",
+        "NCcosto": "PRY 18. Diseño y construcción de herrami"
+    },
+    {
+        "cod_cl1": "1801020066",
+        "NCcosto": "PRY 18. Diseño y construcción de un sist"
+    },
+    {
+        "cod_cl1": "1801020083",
+        "NCcosto": "PRY 18. Diseño y optimización de los com"
+    },
+    {
+        "cod_cl1": "1801020070",
+        "NCcosto": "PRY 18. Estudio del proceso de micro-fra"
+    },
+    {
+        "cod_cl1": "1801020060",
+        "NCcosto": "Pry 18. Herramienta tecnológica de sopor"
+    },
+    {
+        "cod_cl1": "1801020071",
+        "NCcosto": "PRY 18. Interfaz Cerebro-Máquina en proc"
+    },
+    {
+        "cod_cl1": "1801020068",
+        "NCcosto": "PRY 18. Metodología para la caracterizac"
+    },
+    {
+        "cod_cl1": "1801020079",
+        "NCcosto": "PRY 18. MODELO DE INTELIGENCIA ARTIFICIA"
+    },
+    {
+        "cod_cl1": "1801020082",
+        "NCcosto": "PRY 18. Novedoso material de hierro-óxid"
+    },
+    {
+        "cod_cl1": "1801020073",
+        "NCcosto": "PRY 18. Ortesis activa de tobillo usando"
+    },
+    {
+        "cod_cl1": "1801020078",
+        "NCcosto": "PRY 18. Propuesta de actualización parci"
+    },
+    {
+        "cod_cl1": "1801020074",
+        "NCcosto": "PRY 18. Reconocimiento Emocional, Memori"
+    },
+    {
+        "cod_cl1": "1801020080",
+        "NCcosto": "PRY 18. Sistema de captura y procesamien"
+    },
+    {
+        "cod_cl1": "1801020067",
+        "NCcosto": "PRY 18. Teoría de Tipos vs. Estilo calcu"
+    },
+    {
+        "cod_cl1": "1801020100",
+        "NCcosto": "PRY 19. Análisis de los efectos de la co"
+    },
+    {
+        "cod_cl1": "1801020095",
+        "NCcosto": "PRY 19. Competencias y Cultura Organizac"
+    },
+    {
+        "cod_cl1": "1801020092",
+        "NCcosto": "PRY 19. Degradación de implantes modular"
+    },
+    {
+        "cod_cl1": "1801020094",
+        "NCcosto": "PRY 19. Developing secure and resilient"
+    },
+    {
+        "cod_cl1": "1801020089",
+        "NCcosto": "PRY 19. ESTUDIO DE LA INTERACCIÓN CLIMA-"
+    },
+    {
+        "cod_cl1": "1801020101",
+        "NCcosto": "PRY 19. EVALUACION DEL COMPORTAMIENTO DE"
+    },
+    {
+        "cod_cl1": "1801020091",
+        "NCcosto": "PRY 19. Medición de la calidad del aire"
+    },
+    {
+        "cod_cl1": "1801020093",
+        "NCcosto": "PRY 19. Modelo de Gestión del Conocimien"
+    },
+    {
+        "cod_cl1": "1801020099",
+        "NCcosto": "PRY 19. Retos, oportunidades y potencial"
+    },
+    {
+        "cod_cl1": "1801020097",
+        "NCcosto": "PRY 19. Sistema de asistencia a conducto"
+    },
+    {
+        "cod_cl1": "1801020096",
+        "NCcosto": "PRY 19. Tabletas y teléfonos inteligente"
+    },
+    {
+        "cod_cl1": "1801020098",
+        "NCcosto": "PRY 19. Ubicación óptima de estaciones p"
+    },
+    {
+        "cod_cl1": "1801020117",
+        "NCcosto": "Pry 20. Construcción de una metodología"
+    },
+    {
+        "cod_cl1": "1801020114",
+        "NCcosto": "Pry 20. Determinantes del Número de Estu"
+    },
+    {
+        "cod_cl1": "1801020109",
+        "NCcosto": "Pry 20. ESTUDIO DE LA INFLUENCIA DE LAS"
+    },
+    {
+        "cod_cl1": "1801020118",
+        "NCcosto": "Pry 20. Evaluación del deterioro por cor"
+    },
+    {
+        "cod_cl1": "1801020116",
+        "NCcosto": "Pry 20. Impacto sobre la red distribució"
+    },
+    {
+        "cod_cl1": "1801020120",
+        "NCcosto": "Pry 20. Por definir 2"
+    },
+    {
+        "cod_cl1": "1801020110",
+        "NCcosto": "Pry 20. Propuesta metodológica para la m"
+    },
+    {
+        "cod_cl1": "1801020115",
+        "NCcosto": "Pry 20. Tercer año:Diseño y optimización"
+    },
+    {
+        "cod_cl1": "1801020125",
+        "NCcosto": "Pry 21. Caracterización y Usos Potencial"
+    },
+    {
+        "cod_cl1": "1801020132",
+        "NCcosto": "Pry 21. Conexidad en espacios topológico"
+    },
+    {
+        "cod_cl1": "1801020128",
+        "NCcosto": "Pry 21. Diseño de un modelo de planeació"
+    },
+    {
+        "cod_cl1": "1801020124",
+        "NCcosto": "Pry 21. Modelación  y fisica del proceso"
+    },
+    {
+        "cod_cl1": "1801020126",
+        "NCcosto": "Pry 21. Producción de plásticos biodegra"
+    },
+    {
+        "cod_cl1": "1801020127",
+        "NCcosto": "Pry 21. Prospectiva de los perfiles ocup"
+    },
+    {
+        "cod_cl1": "1801020130",
+        "NCcosto": "Pry 21. Sistema de ejercitación y prácti"
+    },
+    {
+        "cod_cl1": "1801020131",
+        "NCcosto": "Pry 21. Tecnificación de la valorización"
+    },
+    {
+        "cod_cl1": "1801020133",
+        "NCcosto": "Pry 21.Obtención y caracterización de pi"
+    },
+    {
+        "cod_cl1": "1801020141",
+        "NCcosto": "Pry 22. Acerca de la conexidad en espaci"
+    },
+    {
+        "cod_cl1": "1801020138",
+        "NCcosto": "Pry 22. Ajuste y aplicación del instrume"
+    },
+    {
+        "cod_cl1": "1801020146",
+        "NCcosto": "Pry 22. Desarrollo de un sistema de dete"
+    },
+    {
+        "cod_cl1": "1801020139",
+        "NCcosto": "Pry 22. Estudio de costos y huella de ca"
+    },
+    {
+        "cod_cl1": "1801020143",
+        "NCcosto": "Pry 22. Impacto de los sistemas de trans"
+    },
+    {
+        "cod_cl1": "1801020142",
+        "NCcosto": "Pry 22. Localización de microfisuras en"
+    },
+    {
+        "cod_cl1": "1801020145",
+        "NCcosto": "Pry 22. MODELACIÓN FÍSICA DEL PROCESO DE"
+    },
+    {
+        "cod_cl1": "1801020140",
+        "NCcosto": "Pry 22. Modificación de scaffolds polimé"
+    },
+    {
+        "cod_cl1": "1801020147",
+        "NCcosto": "Pry 22. Por asignar"
+    },
+    {
+        "cod_cl1": "1217000800",
+        "NCcosto": "PRY.  \"Intervención de los factores d"
+    },
+    {
+        "cod_cl1": "3101200002",
+        "NCcosto": "PRY. Alternativas de solución al problem"
+    },
+    {
+        "cod_cl1": "1201000900",
+        "NCcosto": "PRY. Ambiente integrado de aprendizaje d"
+    },
+    {
+        "cod_cl1": "1201000916",
+        "NCcosto": "PRY. Ampliac. divulg. programa residuos"
+    },
+    {
+        "cod_cl1": "1201000907",
+        "NCcosto": "PRY. Caracterización del perfil de geren"
+    },
+    {
+        "cod_cl1": "3100400009",
+        "NCcosto": "Pry. Desarrollo de modelos para la asign"
+    },
+    {
+        "cod_cl1": "1201000905",
+        "NCcosto": "PRY. Desarrollo de un sistema de rehabil"
+    },
+    {
+        "cod_cl1": "3100500002",
+        "NCcosto": "Pry. Desarrollo de una aplicación en móv"
+    },
+    {
+        "cod_cl1": "1201000906",
+        "NCcosto": "PRY. Desarrollo e implement de 1 Sistema"
+    },
+    {
+        "cod_cl1": "1201000908",
+        "NCcosto": "PRY. Diseño de actividades matemáticas e"
+    },
+    {
+        "cod_cl1": "3100900005",
+        "NCcosto": "Pry. Diseño de un entorno para el aprend"
+    },
+    {
+        "cod_cl1": "3100300004",
+        "NCcosto": "PRY. Diseño de un modelo de transformaci"
+    },
+    {
+        "cod_cl1": "1801020149",
+        "NCcosto": "Pry. ENEL Elaboración propuesta - Sistem"
+    },
+    {
+        "cod_cl1": "1201000909",
+        "NCcosto": "PRY. Estudio de barreras y oportunidades"
+    },
+    {
+        "cod_cl1": "1205000901",
+        "NCcosto": "PRY. Estudio de la fisuración por contra"
+    },
+    {
+        "cod_cl1": "3100100003",
+        "NCcosto": "PRY. Estudio de la fisuración por contra"
+    },
+    {
+        "cod_cl1": "1201000902",
+        "NCcosto": "PRY. Estudio de la necesidad del replant"
+    },
+    {
+        "cod_cl1": "3100400011",
+        "NCcosto": "Pry. Estudio del sistema de gestión de r"
+    },
+    {
+        "cod_cl1": "1201000910",
+        "NCcosto": "PRY. Evaluación de los recubrimientos de"
+    },
+    {
+        "cod_cl1": "1201000911",
+        "NCcosto": "PRY. Evaluación de polimeros reforzados"
+    },
+    {
+        "cod_cl1": "3100500003",
+        "NCcosto": "Pry. Evaluación de técnicas de inferenci"
+    },
+    {
+        "cod_cl1": "1209000901",
+        "NCcosto": "PRY. Evaluación de técnicas de inferenci"
+    },
+    {
+        "cod_cl1": "3100400007",
+        "NCcosto": "PRY. Evaluación de un lubricante aceite"
+    },
+    {
+        "cod_cl1": "1201000912",
+        "NCcosto": "PRY. Evaluación de un lubricante con ace"
+    },
+    {
+        "cod_cl1": "3100400008",
+        "NCcosto": "Pry. Evolución paralela hoja vastago"
+    },
+    {
+        "cod_cl1": "1201000917",
+        "NCcosto": "PRY. Fortalecimiento competencias person"
+    },
+    {
+        "cod_cl1": "1201000913",
+        "NCcosto": "PRY. Mejores prácticas financieras en la"
+    },
+    {
+        "cod_cl1": "1201000914",
+        "NCcosto": "PRY. Metodología para la intervención de"
+    },
+    {
+        "cod_cl1": "1201000920",
+        "NCcosto": "PRY. Optimización cadena abastec biodise"
+    },
+    {
+        "cod_cl1": "3100400005",
+        "NCcosto": "PRY. Optimización integral de la cadena"
+    },
+    {
+        "cod_cl1": "1201000903",
+        "NCcosto": "PRY. Plataforma mHealth para asistencia"
+    },
+    {
+        "cod_cl1": "1201000915",
+        "NCcosto": "PRY. Selección de equipo de manejo de ma"
+    },
+    {
+        "cod_cl1": "1801010018",
+        "NCcosto": "Pry. SEMI2021 Evaluación preliminar de o"
+    },
+    {
+        "cod_cl1": "1201000904",
+        "NCcosto": "PRY. Simulación aerodinámica de vehículo"
+    },
+    {
+        "cod_cl1": "1201000901",
+        "NCcosto": "PRY. Sistema Integrado de Salud Móvil: f"
+    },
+    {
+        "cod_cl1": "3100200001",
+        "NCcosto": "PRY. Vehículo eléctrico fase 2. Ingenier"
+    },
+    {
+        "cod_cl1": "1201000919",
+        "NCcosto": "PRY. Zonificación Agroclimática ganaderí"
+    },
+    {
+        "cod_cl1": "1801020119",
+        "NCcosto": "PRY.20 Plataforma robótica móvil para"
+    },
+    {
+        "cod_cl1": "3100500004",
+        "NCcosto": "Pry.Agregando un sentido termoreceptor"
+    },
+    {
+        "cod_cl1": "1201000921",
+        "NCcosto": "PRY.Diseño suspensión para vehículo expe"
+    },
+    {
+        "cod_cl1": "3100400006",
+        "NCcosto": "PRY.Eficiencia energentica en el uso de"
+    },
+    {
+        "cod_cl1": "3100400013",
+        "NCcosto": "PRY.Evaluac plastificación intern_aceite"
+    },
+    {
+        "cod_cl1": "1201000918",
+        "NCcosto": "PRY.IProg. Caracterizac Equipos Térmicos"
+    },
+    {
+        "cod_cl1": "1801010019",
+        "NCcosto": "PRY.SEMI Análisis TEM de envejecimiento"
+    },
+    {
+        "cod_cl1": "1801010009",
+        "NCcosto": "PRY.SEMI Caracterización mecánica y micr"
+    },
+    {
+        "cod_cl1": "1801010008",
+        "NCcosto": "PRY.SEMI Caracterización mecánica y micr"
+    },
+    {
+        "cod_cl1": "1801010006",
+        "NCcosto": "PRY.SEMI Clasificación taxonómica de las"
+    },
+    {
+        "cod_cl1": "1801010011",
+        "NCcosto": "PRY.SEMI Diseño y Construcción de una ce"
+    },
+    {
+        "cod_cl1": "1801010007",
+        "NCcosto": "PRY.SEMI Helping Hand Challenge"
+    },
+    {
+        "cod_cl1": "1801010010",
+        "NCcosto": "PRY.SEMI Incidencia de la granulometría"
+    },
+    {
+        "cod_cl1": "1801010012",
+        "NCcosto": "PRY.SEMI. Relación entre la composición"
+    },
+    {
+        "cod_cl1": "1801010015",
+        "NCcosto": "PRY.SEMI.Aerogenerador de eje horizontal"
+    },
+    {
+        "cod_cl1": "1801010016",
+        "NCcosto": "PRY.SEMI.Análisis aleación grafeno-alumi"
+    },
+    {
+        "cod_cl1": "1801010003",
+        "NCcosto": "PRY.SEMI.Conectores para controlar el es"
+    },
+    {
+        "cod_cl1": "1801010002",
+        "NCcosto": "PRY.SEMI.Diseño y construcción de un equ"
+    },
+    {
+        "cod_cl1": "1801010005",
+        "NCcosto": "PRY.SEMI.Expresiones faciales para el ro"
+    },
+    {
+        "cod_cl1": "1801010004",
+        "NCcosto": "PRY.SEMI.Human-Robot interaction strateg"
+    },
+    {
+        "cod_cl1": "1801010017",
+        "NCcosto": "PRY.SEMI.Implementación de mezclas con P"
+    },
+    {
+        "cod_cl1": "1801010001",
+        "NCcosto": "PRY.SEMI.Implementación de turbinas eóli"
+    },
+    {
+        "cod_cl1": "1801010014",
+        "NCcosto": "PRY.SEMI.Piezo-eléctricos para la Escuel"
+    },
+    {
+        "cod_cl1": "1801010013",
+        "NCcosto": "PRY.SEMI.Recuperación de virutas de mec"
+    },
+    {
+        "cod_cl1": "1201000925",
+        "NCcosto": "PRY14.  Enseñanza  de la física   por  m"
+    },
+    {
+        "cod_cl1": "1201000926",
+        "NCcosto": "PRY14.  Políticas en los Sistemas de Ges"
+    },
+    {
+        "cod_cl1": "1201000938",
+        "NCcosto": "PRY14. Ambiente integrado de aprendizaje"
+    },
+    {
+        "cod_cl1": "1201000943",
+        "NCcosto": "PRY14. Analisis de variables biomecanica"
+    },
+    {
+        "cod_cl1": "1201000934",
+        "NCcosto": "PRY14. Análisis y caracterización de pro"
+    },
+    {
+        "cod_cl1": "1201000931",
+        "NCcosto": "PRY14. Aprendizaje Significativo de Prog"
+    },
+    {
+        "cod_cl1": "1201000929",
+        "NCcosto": "PRY14. Caracterización básica aerodinámi"
+    },
+    {
+        "cod_cl1": "1201000937",
+        "NCcosto": "PRY14. Casos de estudio en el modelaje y"
+    },
+    {
+        "cod_cl1": "1201000941",
+        "NCcosto": "PRY14. Diagnóstico y Caracterización de"
+    },
+    {
+        "cod_cl1": "1201000944",
+        "NCcosto": "PRY14. Diseño de un sistema electrónico"
+    },
+    {
+        "cod_cl1": "1201000930",
+        "NCcosto": "PRY14. Diseño, fabricación y puesta a pu"
+    },
+    {
+        "cod_cl1": "1201000936",
+        "NCcosto": "PRY14. Estudio de caso: plan de tutorías"
+    },
+    {
+        "cod_cl1": "1201000928",
+        "NCcosto": "PRY14. Estudio del consumo energético de"
+    },
+    {
+        "cod_cl1": "1201000932",
+        "NCcosto": "PRY14. EVALUACIÓN DE LA CAPACIDAD ANTIDE"
+    },
+    {
+        "cod_cl1": "1201000942",
+        "NCcosto": "PRY14. Evaluación del comportamiento ant"
+    },
+    {
+        "cod_cl1": "1201000939",
+        "NCcosto": "PRY14. Evaluación del desempeño de las m"
+    },
+    {
+        "cod_cl1": "1201000935",
+        "NCcosto": "PRY14. Generación del PETI y los requeri"
+    },
+    {
+        "cod_cl1": "1201000927",
+        "NCcosto": "PRY14. Impacto de la implementación de t"
+    },
+    {
+        "cod_cl1": "1201000940",
+        "NCcosto": "PRY14. Redes Inteligentes: conceptualiza"
+    },
+    {
+        "cod_cl1": "1201000946",
+        "NCcosto": "PRY14. Soluc.Tecnologica inalamb 2014"
+    },
+    {
+        "cod_cl1": "1201000933",
+        "NCcosto": "PRY14. Una aproximación hacía la optimiz"
+    },
+    {
+        "cod_cl1": "1201000945",
+        "NCcosto": "PRY14.Des_arquit_empresa_CARDIOINF2014"
+    },
+    {
+        "cod_cl1": "1201000954",
+        "NCcosto": "PRY15.  Ident_caracteriz y anális_mujer"
+    },
+    {
+        "cod_cl1": "1201000948",
+        "NCcosto": "PRY15. Actit_export_empresas(PYMES)Col"
+    },
+    {
+        "cod_cl1": "1201000951",
+        "NCcosto": "PRY15. Actualiz_Modelo _desarr_Proy_Escu"
+    },
+    {
+        "cod_cl1": "1201000962",
+        "NCcosto": "PRY15. Base norma_desarro_vivienda inter"
+    },
+    {
+        "cod_cl1": "1201020900",
+        "NCcosto": "PRY15. Contrapartidas investigac-COLCIEN"
+    },
+    {
+        "cod_cl1": "1201000957",
+        "NCcosto": "PRY15. Desarr_algoritmos control posició"
+    },
+    {
+        "cod_cl1": "1201000949",
+        "NCcosto": "PRY15. Development of an image process_t"
+    },
+    {
+        "cod_cl1": "1201000953",
+        "NCcosto": "PRY15. Diseñ_cadena_abastecimiento_multi"
+    },
+    {
+        "cod_cl1": "1201000955",
+        "NCcosto": "PRY15. Diseño_Estrat_Gestión y Eficien_E"
+    },
+    {
+        "cod_cl1": "1201000952",
+        "NCcosto": "PRY15. Estudio % y tamaño partícula fibr"
+    },
+    {
+        "cod_cl1": "1201000947",
+        "NCcosto": "PRY15. Evaluac_tecn_Plexil_ambientes rob"
+    },
+    {
+        "cod_cl1": "1201000958",
+        "NCcosto": "PRY15. La industria antes de industriali"
+    },
+    {
+        "cod_cl1": "1201000956",
+        "NCcosto": "PRY15. Medición óptica respuesta mecánic"
+    },
+    {
+        "cod_cl1": "1201000950",
+        "NCcosto": "PRY15. Metod_enseñ_diseño_ing_buena_prác"
+    },
+    {
+        "cod_cl1": "1201000959",
+        "NCcosto": "PRY15. Model_Optimiz_Program_Donac_Riñon"
+    },
+    {
+        "cod_cl1": "1201000960",
+        "NCcosto": "PRY15. Progr_optimiz_recurs_hospital _IP"
+    },
+    {
+        "cod_cl1": "1201000961",
+        "NCcosto": "PRY15. Sistema Realid_Virtual Evaluac_Cu"
+    },
+    {
+        "cod_cl1": "1801020018",
+        "NCcosto": "PRY16. Aplicación de la Dinámica Fluidos"
+    },
+    {
+        "cod_cl1": "1801020027",
+        "NCcosto": "PRY16. Atomatizaciones GM"
+    },
+    {
+        "cod_cl1": "1801020010",
+        "NCcosto": "PRY16. Caracterización procesos doblado"
+    },
+    {
+        "cod_cl1": "1801020023",
+        "NCcosto": "PRY16. Comparación rendimiento 1 algorit"
+    },
+    {
+        "cod_cl1": "1801020014",
+        "NCcosto": "PRY16. Comportam_estructural cargas perp"
+    },
+    {
+        "cod_cl1": "1801020012",
+        "NCcosto": "PRY16. Desarrollo tecnológico de 1 celda"
+    },
+    {
+        "cod_cl1": "1801020005",
+        "NCcosto": "PRY16. Diagnóstico adopción práct gerenc"
+    },
+    {
+        "cod_cl1": "1801020002",
+        "NCcosto": "PRY16. Diseño modelo pronost_desercion"
+    },
+    {
+        "cod_cl1": "1801020030",
+        "NCcosto": "PRY16. Ensay_caracteriz_mampost_ladri_co"
+    },
+    {
+        "cod_cl1": "1801020009",
+        "NCcosto": "PRY16. Enseñanza conceptos relativos"
+    },
+    {
+        "cod_cl1": "1801020006",
+        "NCcosto": "PRY16. Estudio compatibilidad electromag"
+    },
+    {
+        "cod_cl1": "1801020007",
+        "NCcosto": "PRY16. Evaluación de los impactos  TLC"
+    },
+    {
+        "cod_cl1": "1801020013",
+        "NCcosto": "PRY16. Gestión del riesgo usando dinámic"
+    },
+    {
+        "cod_cl1": "1801020003",
+        "NCcosto": "PRY16. Gobernalidad en el post-conflicto"
+    },
+    {
+        "cod_cl1": "1801020024",
+        "NCcosto": "PRY16. Identificación, análisis y propos"
+    },
+    {
+        "cod_cl1": "1801020016",
+        "NCcosto": "PRY16. Impacto de los sistemas de gestió"
+    },
+    {
+        "cod_cl1": "1801020020",
+        "NCcosto": "PRY16. Impacto en el uso de tecnologías"
+    },
+    {
+        "cod_cl1": "1801020026",
+        "NCcosto": "PRY16. Localización paneles SAIL–GM Colm"
+    },
+    {
+        "cod_cl1": "1801020008",
+        "NCcosto": "PRY16. Ludificación de las metodologías"
+    },
+    {
+        "cod_cl1": "1801020029",
+        "NCcosto": "PRY16. Metodologia señales TDT_LTE"
+    },
+    {
+        "cod_cl1": "1801020017",
+        "NCcosto": "PRY16. Métodos Caracterización Asfalto"
+    },
+    {
+        "cod_cl1": "1801020015",
+        "NCcosto": "PRY16. Modelación Recursos DistribElectr"
+    },
+    {
+        "cod_cl1": "1801020021",
+        "NCcosto": "PRY16. Modelo de aplicación de telemedic"
+    },
+    {
+        "cod_cl1": "1801020022",
+        "NCcosto": "PRY16. Modelo optimizac problema localiz"
+    },
+    {
+        "cod_cl1": "1801020019",
+        "NCcosto": "PRY16. Optimización binivel aplicada a p"
+    },
+    {
+        "cod_cl1": "1801020028",
+        "NCcosto": "PRY16. REAL ACADEMY - HUMAN ROBOT INTERA"
+    },
+    {
+        "cod_cl1": "1801020025",
+        "NCcosto": "PRY16. Redes Complejas y Teoría de Grafo"
+    },
+    {
+        "cod_cl1": "1801020011",
+        "NCcosto": "PRY16. TELEMEDICINA"
+    },
+    {
+        "cod_cl1": "1801020004",
+        "NCcosto": "PRY16. Teoría Conjuntos perspectiva calc"
+    },
+    {
+        "cod_cl1": "1801020001",
+        "NCcosto": "PRY16. Valoración de agregados reciclado"
+    },
+    {
+        "cod_cl1": "1801020050",
+        "NCcosto": "PRY17.  Aprovechamiento, reciclaje"
+    },
+    {
+        "cod_cl1": "1801020055",
+        "NCcosto": "PRY17.  Desarrollo metodología analisis"
+    },
+    {
+        "cod_cl1": "1801020036",
+        "NCcosto": "PRY17.  Descompos_genética ecuación"
+    },
+    {
+        "cod_cl1": "1801020031",
+        "NCcosto": "PRY17.  Durabilidad concreto (ARC) fino"
+    },
+    {
+        "cod_cl1": "1801020046",
+        "NCcosto": "PRY17.  DyD Interfaz navegacion disposi"
+    },
+    {
+        "cod_cl1": "1801020042",
+        "NCcosto": "PRY17.  Eval_parámetros biomec exoesquel"
+    },
+    {
+        "cod_cl1": "1801020051",
+        "NCcosto": "PRY17.  Framework generac_automaticas"
+    },
+    {
+        "cod_cl1": "1801020053",
+        "NCcosto": "PRY17.  Incidencia de la última reforma"
+    },
+    {
+        "cod_cl1": "1801020054",
+        "NCcosto": "PRY17.  La Cadena Valor Cacao en Colomb"
+    },
+    {
+        "cod_cl1": "1801020045",
+        "NCcosto": "PRY17. Caracterización del comportamient"
+    },
+    {
+        "cod_cl1": "1801020043",
+        "NCcosto": "PRY17. Desarr_dispositivo Movilidad Hum"
+    },
+    {
+        "cod_cl1": "1801020056",
+        "NCcosto": "PRY17. Desarr_implement_plataforma"
+    },
+    {
+        "cod_cl1": "1801020049",
+        "NCcosto": "PRY17. Diseño Soluciones empresariales"
+    },
+    {
+        "cod_cl1": "1801020038",
+        "NCcosto": "PRY17. DYC Sistema Monitoreo"
+    },
+    {
+        "cod_cl1": "1801020044",
+        "NCcosto": "PRY17. DyF equipos caracter_esterilizado"
+    },
+    {
+        "cod_cl1": "1801020048",
+        "NCcosto": "PRY17. Energías renovables Lab pruebas"
+    },
+    {
+        "cod_cl1": "1801020041",
+        "NCcosto": "PRY17. Evaluación de parámetros biomecá"
+    },
+    {
+        "cod_cl1": "1801020033",
+        "NCcosto": "PRY17. Implantación de una solución SIEM"
+    },
+    {
+        "cod_cl1": "1801020037",
+        "NCcosto": "PRY17. Implantación planes confiables"
+    },
+    {
+        "cod_cl1": "1801020035",
+        "NCcosto": "PRY17. La industria como sector estratég"
+    },
+    {
+        "cod_cl1": "1801020052",
+        "NCcosto": "PRY17. Model_teórico sensor basado Fibra"
+    },
+    {
+        "cod_cl1": "1801020057",
+        "NCcosto": "PRY17. Modelación física y numérica"
+    },
+    {
+        "cod_cl1": "1801020040",
+        "NCcosto": "PRY17. Potenciales Evocados Visuales"
+    },
+    {
+        "cod_cl1": "1801020039",
+        "NCcosto": "PRY17. Prototipo Procesadora De Cacao"
+    },
+    {
+        "cod_cl1": "1801020034",
+        "NCcosto": "PRY17. Robotica cooperativa"
+    },
+    {
+        "cod_cl1": "1801020047",
+        "NCcosto": "PRY17. Simulación de sistemas productivo"
+    },
+    {
+        "cod_cl1": "1801020032",
+        "NCcosto": "PRY17. Turismo inteligente"
+    },
+    {
+        "cod_cl1": "1801020087",
+        "NCcosto": "PRY18. Estudio de la Influencia del Uso"
+    },
+    {
+        "cod_cl1": "1801020086",
+        "NCcosto": "PRY18. REAL ACADEMY - CASTOR"
+    },
+    {
+        "cod_cl1": "1801020102",
+        "NCcosto": "PRY19. 100k AFFORDABLE ASSISTIVE TECHNOL"
+    },
+    {
+        "cod_cl1": "1801020105",
+        "NCcosto": "PRY19. Al-calamineM-Project Royal Academ"
+    },
+    {
+        "cod_cl1": "1801020104",
+        "NCcosto": "Pry19. ANE-Estudio Coexistencia 3,5 GHZ"
+    },
+    {
+        "cod_cl1": "1801020103",
+        "NCcosto": "Pry19. ERASMUS"
+    },
+    {
+        "cod_cl1": "1801020106",
+        "NCcosto": "PRY19. PrExhand Royal Academy"
+    },
+    {
+        "cod_cl1": "1801020121",
+        "NCcosto": "Pry20. ANE-Contribución a los Grupos téc"
+    },
+    {
+        "cod_cl1": "1801020123",
+        "NCcosto": "Pry20. COVIBOT Royal Academy"
+    },
+    {
+        "cod_cl1": "1801020150",
+        "NCcosto": "Pry22. Andes - Regalías Vichada"
+    },
+    {
+        "cod_cl1": "1801020137",
+        "NCcosto": "Pry22.Exter-Fortalecimiento de capacidad"
+    },
+    {
+        "cod_cl1": "1801020059",
+        "NCcosto": "PRYColciencias. AGORA"
+    },
+    {
+        "cod_cl1": "1801020088",
+        "NCcosto": "PRYColciencias. SORCAR"
+    },
+    {
+        "cod_cl1": "1801020122",
+        "NCcosto": "PRYColciencias20.SISTEMA DE ANESTESIA IN"
+    },
+    {
+        "cod_cl1": "1801020135",
+        "NCcosto": "PryColciencias21. JI:Lesiones neurológic"
+    },
+    {
+        "cod_cl1": "1801020134",
+        "NCcosto": "PryColciencias21. JI:Trastornos del Espe"
+    },
+    {
+        "cod_cl1": "1801020148",
+        "NCcosto": "PryEnel. Acompañamiento como Actor asoci"
+    },
+    {
+        "cod_cl1": "1801020136",
+        "NCcosto": "PryEnel. Elaborar Propuesta Beneficios T"
+    },
+    {
+        "cod_cl1": "1801020107",
+        "NCcosto": "PRYI19.Efecto de adición de fibras polim"
+    },
+    {
+        "cod_cl1": "1801050007",
+        "NCcosto": "Pry-p. Evaluación del desempeño del disp"
+    },
+    {
+        "cod_cl1": "1801050001",
+        "NCcosto": "Pry-p. Filtros lentos de arena para trat"
+    },
+    {
+        "cod_cl1": "1801050006",
+        "NCcosto": "Pry-p. Implementación y Evaluación de un"
+    },
+    {
+        "cod_cl1": "1801050010",
+        "NCcosto": "Pry-p. Investigación en Liderazgo y Comp"
+    },
+    {
+        "cod_cl1": "1801050002",
+        "NCcosto": "Pry-p.Gestión estratégica del desarrollo"
+    },
+    {
+        "cod_cl1": "1801050004",
+        "NCcosto": "Pry-p.Modelamiento del mercado de energí"
+    },
+    {
+        "cod_cl1": "1801050003",
+        "NCcosto": "Pry-p.Modelo matemático para la ubicació"
+    },
+    {
+        "cod_cl1": "1801050005",
+        "NCcosto": "Pry-p.Monitoreo en tiempo real de un sis"
+    },
+    {
+        "cod_cl1": "1206020100",
+        "NCcosto": "Puesta en marcha Maestria Eléctrica"
+    },
+    {
+        "cod_cl1": "1401010000",
+        "NCcosto": "Reconocimiento Universidad"
+    },
+    {
+        "cod_cl1": "1605040003",
+        "NCcosto": "Reconstrucción forense de accidentes de"
+    },
+    {
+        "cod_cl1": "1000000000",
+        "NCcosto": "RECTORÍA"
+    },
+    {
+        "cod_cl1": "1301030000",
+        "NCcosto": "Registro"
+    },
+    {
+        "cod_cl1": "1601040098",
+        "NCcosto": "Relaciones Internacionales - Practicante"
+    },
+    {
+        "cod_cl1": "1217015008",
+        "NCcosto": "Renovación Acreditación Ing. Biomédica"
+    },
+    {
+        "cod_cl1": "1401000100",
+        "NCcosto": "Renovación Acreditación Institucional"
+    },
+    {
+        "cod_cl1": "1206000801",
+        "NCcosto": "Requerimientos para expertos temáticos C"
+    },
+    {
+        "cod_cl1": "1301010018",
+        "NCcosto": "Reta tu ingenio"
+    },
+    {
+        "cod_cl1": "1101000001",
+        "NCcosto": "Retorno Escuela"
+    },
+    {
+        "cod_cl1": "1106090005",
+        "NCcosto": "Reunión Fin Año"
+    },
+    {
+        "cod_cl1": "1106090008",
+        "NCcosto": "Reunión Fin Año \"niños empleados\""
+    },
+    {
+        "cod_cl1": "1205000824",
+        "NCcosto": "Revisión de informes mensuales CIMA"
+    },
+    {
+        "cod_cl1": "1205000832",
+        "NCcosto": "Revisión de informes mensuales CIMA2"
+    },
+    {
+        "cod_cl1": "1203030002",
+        "NCcosto": "Revista Carma"
+    },
+    {
+        "cod_cl1": "1203010000",
+        "NCcosto": "Revista Escuela"
+    },
+    {
+        "cod_cl1": "1106030099",
+        "NCcosto": "Salud Ocupacional SOMA - Aprendices"
+    },
+    {
+        "cod_cl1": "1301000000",
+        "NCcosto": "Secretaría General"
+    },
+    {
+        "cod_cl1": "1201000006",
+        "NCcosto": "SED RETO A LA U"
+    },
+    {
+        "cod_cl1": "1106030000",
+        "NCcosto": "Seguridad y Salud en el Trabajo"
+    },
+    {
+        "cod_cl1": "1601010001",
+        "NCcosto": "Semana Extensión"
+    },
+    {
+        "cod_cl1": "1801010000",
+        "NCcosto": "Semilleros de Investigación"
+    },
+    {
+        "cod_cl1": "1605030002",
+        "NCcosto": "Seminario de Hidro informática para la s"
+    },
+    {
+        "cod_cl1": "1601050001",
+        "NCcosto": "Seminario Ingreso mercado Laboral"
+    },
+    {
+        "cod_cl1": "1601040005",
+        "NCcosto": "Seminario Prepar_Movilidad Internacional"
+    },
+    {
+        "cod_cl1": "1109000000",
+        "NCcosto": "Servicios Internos"
+    },
+    {
+        "cod_cl1": "1401000706",
+        "NCcosto": "Sistem_Integr_Inform_calidad SIACI"
+    },
+    {
+        "cod_cl1": "1613010002",
+        "NCcosto": "Software CAD para diseño mecánico avanz"
+    },
+    {
+        "cod_cl1": "1615010001",
+        "NCcosto": "Soy Líder de mi presente y futuro profe"
+    },
+    {
+        "cod_cl1": "1606010003",
+        "NCcosto": "Subestaciones digitales"
+    },
+    {
+        "cod_cl1": "1103030000",
+        "NCcosto": "Subvenciones_donaciones"
+    },
+    {
+        "cod_cl1": "1611010004",
+        "NCcosto": "Systematic Inventive Thinking - SIT Inno"
+    },
+    {
+        "cod_cl1": "1616010020",
+        "NCcosto": "Taller Gestión de Riesgos en Proyectos"
+    },
+    {
+        "cod_cl1": "1607010008",
+        "NCcosto": "Tecnología Blockchain: visión y estrateg"
+    },
+    {
+        "cod_cl1": "1604010001",
+        "NCcosto": "The Maker  Video juegos"
+    },
+    {
+        "cod_cl1": "1604010005",
+        "NCcosto": "THE MAKER DOS SEMANAS"
+    },
+    {
+        "cod_cl1": "1604010002",
+        "NCcosto": "The Maker Luces, cámara, acción"
+    },
+    {
+        "cod_cl1": "1604010007",
+        "NCcosto": "THE MAKER SEMANA DOS"
+    },
+    {
+        "cod_cl1": "1604010006",
+        "NCcosto": "THE MAKER SEMANA UNO"
+    },
+    {
+        "cod_cl1": "1106070002",
+        "NCcosto": "Torneos deportivos universitarios"
+    },
+    {
+        "cod_cl1": "1301010020",
+        "NCcosto": "Un Día Como Profesional"
+    },
+    {
+        "cod_cl1": "1601010000",
+        "NCcosto": "Unidad de Gestión Externa"
+    },
+    {
+        "cod_cl1": "1111000000",
+        "NCcosto": "Unidad de Ingeniería de Procesos"
+    },
+    {
+        "cod_cl1": "1216010000",
+        "NCcosto": "Unidad de Proyectos"
+    },
+    {
+        "cod_cl1": "1102000001",
+        "NCcosto": "Valla Tubular"
+    },
+    {
+        "cod_cl1": "1201000003",
+        "NCcosto": "VICEACADEMICA-Profesoresinvitados INTERN"
+    },
+    {
+        "cod_cl1": "1201000000",
+        "NCcosto": "Vicerrectoría Académica"
+    },
+    {
+        "cod_cl1": "1201000099",
+        "NCcosto": "VICERRECTORIA ACADEMICA - APRENDICES"
+    },
+    {
+        "cod_cl1": "1101000000",
+        "NCcosto": "Vicerrectoría Administrativa"
+    }
+]

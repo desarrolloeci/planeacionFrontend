@@ -1,0 +1,92 @@
+[
+    {
+        "cod_cco": 0,
+        "nom_cco": "NO APLICA  N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 10,
+        "nom_cco": "Administrativo y operación",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 20,
+        "nom_cco": "Educación formal -superior profesional",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 30,
+        "nom_cco": "Investigación",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 40,
+        "nom_cco": "Educación no formal Formación Extensiva",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 50,
+        "nom_cco": "Servicios conexos a la educación",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 80,
+        "nom_cco": "PLAN DE ACCIÓN N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 65,
+        "nom_cco": "DOC. POSGRADO N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 60,
+        "nom_cco": "DOC. PREGRADO N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 70,
+        "nom_cco": "EDU. CONT. N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 75,
+        "nom_cco": "CONTRATOS Y CONVENIOS N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 15,
+        "nom_cco": "EXTENSIÓN N/A",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 25,
+        "nom_cco": "Educación formal -superior postgrados",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 45,
+        "nom_cco": "Educación informal-Continuada",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    },
+    {
+        "cod_cco": 11,
+        "nom_cco": "Bienestar Universitario",
+        "est_cco": 1,
+        "cod_cco_Extr": null
+    }
+]
