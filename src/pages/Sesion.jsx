@@ -2,10 +2,11 @@ import axios from 'axios';
 import { useEffect, useState } from "react";
 import { InteractionType } from "@azure/msal-browser";
 import { removeStorage, setStorage } from 'minimal-shared/utils';
-import { AuthenticatedTemplate, useMsal, useMsalAuthentication } from "@azure/msal-react";
+// Importamos UnauthenticatedTemplate
+import { AuthenticatedTemplate, UnauthenticatedTemplate, useMsal, useMsalAuthentication } from "@azure/msal-react";
 
 import { LoadingButton } from '@mui/lab';
-import { Box, Typography, Button } from '@mui/material';
+import { Box, Typography, Button, CircularProgress } from '@mui/material';
 
 import { paths } from "src/routes/paths";
 import { useRouter } from "src/routes/hooks";
@@ -16,7 +17,9 @@ import { API_BASE_URL } from 'src/config/api';
 export function Sesion() {
     const request = { scopes: ["User.Read"] };
     const router = useRouter();
-    const [loading, setLoading] = useState(false);
+
+    const [loading, setLoading] = useState(true);
+    const [loadingMessage, setLoadingMessage] = useState('Iniciando sesión con Microsoft...');
     const [usuarioNoEncontrado, setUsuarioNoEncontrado] = useState(false);
 
     const { login, result, error } = useMsalAuthentication(InteractionType.Silent, request);
@@ -39,8 +42,8 @@ export function Sesion() {
 
     const fetchUsuario = async (email) => {
         try {
-
-            removeStorage('rolesMaterial')
+            setLoadingMessage('Verificando credenciales en el sistema...');
+            removeStorage('rolesMaterial');
             const resUser = await axios.get(API_USER(email));
             const usuario = resUser.data;
 
@@ -61,11 +64,8 @@ export function Sesion() {
                 perfil: perfil
             };
 
-
-
             setStorage('user', JSON.stringify(usuarioFinal));
 
-            
             const roles = await fetchRoles(usuarioFinal);
             setStorage('rolesMaterial', JSON.stringify(roles));
 
@@ -82,11 +82,9 @@ export function Sesion() {
     };
 
     const fetchRoles = async (usuario) => {
-        
         if (!usuario?.id) return [];
         try {
             const res = await axios.get(`${API_BASE_URL}/user/${usuario.id}/roles`);
-            
             return res.data;
         } catch (err) {
             console.error("Error obteniendo roles:", err);
@@ -97,6 +95,8 @@ export function Sesion() {
 
     const getParametricas = async () => {
         setLoading(true);
+        setLoadingMessage('Sincronizando configuraciones y parámetros...');
+
         await fetchAndStore(`${API_BASE_URL}/planes`, 'planesList', el => ({ id: el.idplan, name: el.nombrepl, state: el.estadopl }));
         await fetchAndStore(`${API_BASE_URL}/ejeprograma`, 'ejesList', el => ({ id: el.idejeprograma, name: el.nombreep, objective: el.objgeneralep, state: el.estadoep }));
         await fetchAndStore(`${API_BASE_URL}/unidadejecutora`, 'unidadesList', el => ({ id: el.idunidadej, name: el.nombreunidad, state: el.estadounidadej }));
@@ -130,13 +130,10 @@ export function Sesion() {
     };
 
     function signOutClickHandler() {
-
-        
         removeStorage("perfilUser");
         removeStorage("user");
         removeStorage("arrayRoles");
         removeStorage("parametricas");
-
 
         const logoutRequest = {
             account: accounts[0],
@@ -147,18 +144,23 @@ export function Sesion() {
 
     useEffect(() => {
         const init = async () => {
-            if (accounts.length === 0) return;
+            if (accounts.length === 0) {
+                setLoading(false);
+                return;
+            }
 
             const email = accounts[0]?.username;
             if (!email) {
                 console.error("Email no disponible en accounts[0]");
                 setUsuarioNoEncontrado(true);
+                setLoading(false);
                 return;
             }
 
             const usuario = await fetchUsuario(email);
             if (!usuario) {
                 setUsuarioNoEncontrado(true);
+                setLoading(false);
                 toast.error('Usuario no registrado. Por favor inicie sesión nuevamente.');
                 return;
             }
@@ -167,6 +169,7 @@ export function Sesion() {
         };
 
         if (error) {
+            setLoading(false);
             login(InteractionType.Redirect, request);
         } else if (result && accounts.length > 0) {
             init();
@@ -174,35 +177,51 @@ export function Sesion() {
     }, [error, result, accounts]);
 
     return (
-        <AuthenticatedTemplate>
-            <Box sx={{ gap: 3, display: 'flex', flexDirection: 'column', alignItems: "center" }}>
-                {usuarioNoEncontrado ? (
-                    <>
-                        <Typography variant="h3" sx={{ mb: 2 }}>
-                            Autenticación exitosa
-                        </Typography>
-                        <Typography sx={{ color: 'text.secondary' }}>
-                            {accounts[0]?.username}
-                        </Typography>
-                        <Typography variant="h4" color="error" sx={{ mb: 2 }}>
-                            Usuario no registrado
-                        </Typography>
-                        <Button variant="outlined" color="error" onClick={signOutClickHandler}>
-                            Cerrar sesión
-                        </Button>
-                    </>
-                ) : (
-                    <>
-                        <Typography variant="h3" sx={{ mb: 2 }}>
-                            Autenticación exitosa
-                        </Typography>
-                        <Typography sx={{ color: 'text.secondary' }}>
-                            {accounts[0]?.username}
-                        </Typography>
+        <>
+            {/* CASO 1: EL USUARIO YA ESTÁ AUTENTICADO EN AZURE */}
+            <AuthenticatedTemplate>
+                <Box sx={{ gap: 3, display: 'flex', flexDirection: 'column', alignItems: "center", justifyContent: "center", minHeight: '50vh' }}>
+                    {loading ? (
+                        <>
+                            <CircularProgress size={50} thickness={4} color="primary" />
+                            <Typography variant="h5" sx={{ color: 'text.secondary', textAlign: 'center' }}>
+                                {loadingMessage}
+                            </Typography>
+                        </>
+                    ) : usuarioNoEncontrado ? (
+                        <>
+                            <Typography variant="h3" sx={{ mb: 2 }}>
+                                Autenticación exitosa
+                            </Typography>
+                            <Typography sx={{ color: 'text.secondary' }}>
+                                {accounts[0]?.username}
+                            </Typography>
+                            <Typography variant="h4" color="error" sx={{ mb: 2 }}>
+                                Usuario no registrado en la plataforma
+                            </Typography>
+                            <Button variant="outlined" color="error" onClick={signOutClickHandler}>
+                                Cerrar sesión
+                            </Button>
+                        </>
+                    ) : (
+                        <>
+                            <Typography variant="h3" sx={{ mb: 2 }}>
+                                Accediendo al sistema...
+                            </Typography>
+                        </>
+                    )}
+                </Box>
+            </AuthenticatedTemplate>
 
-                    </>
-                )}
-            </Box>
-        </AuthenticatedTemplate>
+            {/* CASO 2: VENTANA INCÓGNITO / PRIMERA VEZ (NO AUTENTICADO EN AZURE TODAVÍA) */}
+            <UnauthenticatedTemplate>
+                <Box sx={{ gap: 3, display: 'flex', flexDirection: 'column', alignItems: "center", justifyContent: "center", minHeight: '50vh' }}>
+                    <CircularProgress size={50} thickness={4} color="primary" />
+                    <Typography variant="h5" sx={{ color: 'text.secondary', textAlign: 'center' }}>
+                        Conectando con Microsoft Azure...
+                    </Typography>
+                </Box>
+            </UnauthenticatedTemplate>
+        </>
     );
 }
